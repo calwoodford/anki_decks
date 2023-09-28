@@ -3,7 +3,7 @@ Questions and answers for Anki spaced repetition software decks. Created for the
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Please feel free to submit pull requests, which will be added to the decks on the [Anki Web website](https://ankiweb.net/shared/info/1120412708?cb=1695934122268)
+Please feel free to submit pull requests, which will be added to the decks on the [Anki Web website](https://ankiweb.net/shared/info/1120412708?cb=1695934122268).
 
 ------------------------------------------------------------------------------------------------------------------------
 
