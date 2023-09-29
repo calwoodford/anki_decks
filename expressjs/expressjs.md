@@ -21,7 +21,7 @@ npm init -y
 
 #### Answer:
 
-The npm init -y command is used to initialize a new Node.js project and create a package.json file with default values without prompting you for any information. The -y flag stands for "yes" and is used to automatically accept all the default settings during the initialization process.
+The `npm init -y` command is used to initialize a new Node.js project and create a `package.json` file with default values without prompting you for any information. The `-y` flag stands for "yes" and is used to automatically accept all the default settings during the initialization process.
 
 </p>
 </details>
