@@ -11,6 +11,8 @@ Questions and answers for Anki spaced repetition software decks. Created for the
 
 Please feel free to submit pull requests, which will be added to the decks on the [Anki Web website](https://ankiweb.net/shared/info/1120412708?cb=1695934122268).
 
+Note: These questions and answers were created in autumn 2023, and information may become outdated in the future.
+
 ------------------------------------------------------------------------------------------------------------------------
 
 
