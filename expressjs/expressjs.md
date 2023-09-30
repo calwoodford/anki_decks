@@ -1014,3 +1014,17 @@ import {
 </details>
 
 <br><br>
+
+###### Question 58.
+
+What is an endpoint?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+An endpoint in Express.js is a specific URL path and HTTP method combination that defines how the server should respond to client requests. It serves as a route that determines the execution of a corresponding route handler when a matching request is received.
+
+</p>
+</details>
+
+<br><br>
