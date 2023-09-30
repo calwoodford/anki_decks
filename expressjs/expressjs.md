@@ -924,7 +924,7 @@ How might one use `res.status` to indicate a successful operation (status code 2
 <p>
 
 ```javascript
-res.status(200).json({ message: 'Operation successful' }); // Set status code to 200 and send JSON response.
+res.status(200).json({ message: 'Operation successful' }); 
 ```
 </p>
 </details>
