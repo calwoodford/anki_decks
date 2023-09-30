@@ -600,8 +600,6 @@ Inside an `app.post` route handler, how might one assign all the incoming JSON d
   const jsonData = req.body;
 ```
 
-Where `method` is a HTTP method (e.g., GET, POST), `path` is the URL path, and `callback` is a function that handles the request and response.
-
 </p>
 </details>
 
