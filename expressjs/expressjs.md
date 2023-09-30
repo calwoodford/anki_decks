@@ -675,7 +675,7 @@ What would the output from `req.query` be when console logged, assuming it's in 
 <p>
 
 ```javascript
-// { query: 'express', category: 'node' }
+{ query: 'express', category: 'node' }
 ```
 </p>
 </details>
