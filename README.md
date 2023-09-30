@@ -21,7 +21,7 @@ Questions and answers for [Anki](https://apps.ankiweb.net/) spaced repetition so
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Please feel free to submit pull requests, which will be added to the decks on the [Anki Web website](https://ankiweb.net/shared/info/1120412708?cb=1695934122268). This will download all of the decks, you will be able to choose between topics once it's installed on your system.
+Please feel free to submit pull requests, which will be added to the decks on the [Anki Web website](https://ankiweb.net/shared/info/376600095?cb=1696102818355). This will download all of the decks, you will be able to choose between topics once it's installed on your system.
 
 Note: These questions and answers were created in autumn 2023 and information may become outdated in the future.
 
