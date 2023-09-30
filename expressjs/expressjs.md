@@ -571,7 +571,7 @@ When using `app.post` to make a route, what is one doing?
 
 ###### Question 33.
 
- How does one access data sent in the request body using req.body in an Express.js route handler?
+ How does one access data sent in the request body using `req.body` in an Express.js route handler?
 
 <details><summary><b>Answer</b></summary>
 <p>
