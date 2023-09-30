@@ -577,7 +577,7 @@ When using `app.post` to make a route, what is one doing?
 <p>
 
 ```javascript
-app.post('/submit', (req, res) => {
+app.post('/example', (req, res) => {
   const name = req.body.name; // Accessing the "name" property in req.body
   const email = req.body.email; // Accessing the "email" property in req.body
   // ... (use name and email data)
