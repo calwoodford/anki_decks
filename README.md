@@ -6,6 +6,7 @@
   <br>
   <a href="https://ankiweb.net/shared/info/1982258792?cb=1695936303593"> Download the Anki deck here </a>
   <br>
+  <br>
   <img src="./images/learning.gif" alt="Neo learning">
   
   <br>
