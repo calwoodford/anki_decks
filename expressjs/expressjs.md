@@ -470,7 +470,7 @@ What is the 'dev' argument in "morgan"?
 <details><summary><b>Answer</b></summary>
 <p>
 
-The 'dev' argument in the "morgan" middleware is one of the predefined logging formats provided by "morgan." When you specify 'dev' as the argument, it configures "morgan" to log HTTP requests in a developer-friendly and concise format. Here's what the 'dev' format typically includes:
+The 'dev' argument in the "morgan" middleware is one of the predefined logging formats provided by "morgan." When you specify 'dev' as the argument, it configures "morgan" to log HTTP requests in a developer-friendly and concise format.
 
 </p>
 </details>
