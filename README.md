@@ -4,7 +4,7 @@
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
   <h1>Full Stack Anki Flashcards</h1>
   <br>
-
+  <a href="https://ankiweb.net/shared/info/1982258792?cb=1695936303593"> Download the Anki deck here </a>
   <img src="./images/learning.gif" alt="Neo learning">
   
   <br>
