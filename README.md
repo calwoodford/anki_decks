@@ -1,9 +1,17 @@
-# soc_anki_decks
+# anki_decks
 
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
   <h1>JavaScript Questions and Answers</h1>
+  <br>
+
+  <img src="./images/learning.gif" alt="Neo learning">
+  
+  <br>
+
 </div>
+
+
 
 Questions and answers for [Anki](https://apps.ankiweb.net/) spaced repetition software decks. Created for the content of the [School of Code bootcamp](https://www.schoolofcode.co.uk/). 
 
@@ -22,38 +30,3 @@ It is available to use on their web app, desktop software or via their [iOS app]
 The benefit of using their mobile app is that it allows one to study whilst on the move, whilst fulfilling other commitments or during downtime such as waiting in a queue. 
 
 ------------------------------------------------------------------------------------------------------------------------
-
-
-
-                                     &@@@@@                                     
-                          @@%////,,/  /  /   //////#@@/                         
-                     @&//// / (/ ///       / /  / /  ///(/@@                    
-                 @///////////,    / / /    , / /    //////////@@                
-              &////////////// ////@@@@&@@@@&@@////   ///////(////&@             
-           @///////////////@@                      /@#////////@//@//&           
-         &//@(/////////@/&                              &@//////& &@&&&@        
-          @//@/////#&#@/&#/&                               /@//&@               
-           @//@/(@@//@@&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&  &//@              
-            /%/&/#@///@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#/@   @@              
-              &@@@@@//@                                   #/@                   
-                    //@                                   #/@                   
-                    //@                                   #/@                   
-                    //@                                   #/@                   
-                    //@                                   #/@                   
-                    //@                                   #/@                   
-                    //@                                   #/@                   
-                    //@                                   #/@                   
-                    //@                                   #/@                   
-                    @///////////////////////////////////////&                   
-                                 @///////////////((/@//@                        
-                         @#///////////////////////////#&/@                      
-              @        @//%@@@/@&@@/@@@@/&&@@(@@@@/@@@///@(&&@@@@@@             
-              @&/    @//#####%&#######%###########&&#####//@/&//@//@            
-               &/@@  @&@@@@@@@@@@@@@@@@@@@@@@@@@&@@@@@@@@@@@/@@//@//@@          
-               @#///@                              /@/@#/@/@#/////@//@&         
-         @/@@@@@@//&///&@                             @/&////(////(&/*@         
-           @@/(#//&////////#@@                    /@&///////////////@           
-              @//(//(/////    //////#&&@@&@&//////   //////////(/@              
-                 @@////// (/ /  /////   ,/ , /  / /, ,///////#&                 
-                     &@///  // //(//  (/// /  / // // ///&@                     
-                           @@&(//////   //.  /////%@@/                          
