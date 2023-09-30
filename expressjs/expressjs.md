@@ -234,7 +234,7 @@ A middleware stack in Express.js is a series of middleware functions that are ex
 
 ###### Question 13.
 
-What is the purpose of the Express.js response object (`res`)?
+What is the purpose of `res` in Express.js?
 
 <details><summary><b>Answer</b></summary>
 <p>
