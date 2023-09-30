@@ -78,7 +78,7 @@ How might one check the version of Node installed via the terminal? (Also checks
 <p>
 
 ```javascript
-node - v;
+node - v
 ```
 
 OR
