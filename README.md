@@ -13,7 +13,7 @@
 </div>
 
 
-<div align="center">
+<div style="text-align: justify;">
 
 Questions and answers for [Anki](https://apps.ankiweb.net/) spaced repetition software decks. Created for the content of the [School of Code bootcamp](https://www.schoolofcode.co.uk/). 
 
