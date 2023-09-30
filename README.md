@@ -2,11 +2,12 @@
 
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
-  <h1>JavaScript Questions and Answers</h1>
+  <h1>Full Stack Anki Flashcards</h1>
   <br>
 
   <img src="./images/learning.gif" alt="Neo learning">
   
+  <br>
   <br>
 
 </div>
