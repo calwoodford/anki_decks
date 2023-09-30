@@ -890,7 +890,7 @@ How can one set a specific HTTP status code using `res.status`?
 <p>
 
 ```javascript
-res.status(404); // Set the status code to 404 (Not Found).
+res.status(404); // Set the status code to 404 (Not Found) for example.
 ```
 
 </p>
