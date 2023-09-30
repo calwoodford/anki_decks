@@ -13,6 +13,7 @@
 </div>
 
 
+<div align="center">
 
 Questions and answers for [Anki](https://apps.ankiweb.net/) spaced repetition software decks. Created for the content of the [School of Code bootcamp](https://www.schoolofcode.co.uk/). 
 
@@ -29,5 +30,7 @@ Anki is [spaced repetition](https://quantifiedself.com/blog/spaced-repetition-an
 It is available to use on their web app, desktop software or via their [iOS app](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387).
 
 The benefit of using their mobile app is that it allows one to study whilst on the move, whilst fulfilling other commitments or during downtime such as waiting in a queue. 
+
+</div>
 
 ------------------------------------------------------------------------------------------------------------------------
