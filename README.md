@@ -4,7 +4,7 @@
   <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anki-icon.svg/1200px-Anki-icon.svg.png">
   <h1>Full Stack Anki Flashcards</h1>
   <br>
-  <a href="https://ankiweb.net/shared/info/376600095?cb=1696104621360"> Download the Anki deck here </a>
+  <a href="https://ankiweb.net/shared/info/376600095?cb=1696104749579"> Download the Anki deck here </a>
   <br>
   <br>
   <img src="./images/learning.gif" alt="Neo learning">
@@ -21,7 +21,7 @@ Questions and answers for [Anki](https://apps.ankiweb.net/) spaced repetition so
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Please feel free to submit pull requests, which will be added to the decks on the [Anki Web website](https://ankiweb.net/shared/info/376600095?cb=1696104621360). This will download all of the decks, you will be able to choose between topics once it's installed on your system.
+Please feel free to submit pull requests, which will be added to the decks on the [Anki Web website](https://ankiweb.net/shared/info/376600095?cb=1696104749579). This will download all of the decks, you will be able to choose between topics once it's installed on your system.
 
 Note: These questions and answers were created in autumn 2023 and information may become outdated in the future.
 
