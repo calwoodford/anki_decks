@@ -519,7 +519,7 @@ app.get("/", function (req, res) {
 <details><summary><b>Answer</b></summary>
 <p>
 
-Not an async function. The `await` keyword can only be used inside an async function.
+It isn't an async function. The `await` keyword can only be used inside an async function.
 
 
 </p>
