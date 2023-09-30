@@ -358,7 +358,7 @@ Give an example of a URL with route parameters.
 An example URL with route parameters is
 
 ```javascript
-`http://example.com/users/:id`;
+`http://example.com/users/:id`
 ```
 
 Where `:id` is a route parameter.
