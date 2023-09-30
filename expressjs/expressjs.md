@@ -458,12 +458,6 @@ How is "morgan" implemented?
 app.use(morgan('dev'));
 ```
 
-OR
-
-```javascript
-npm i express
-```
-
 </p>
 </details>
 
