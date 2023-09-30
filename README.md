@@ -1,7 +1,7 @@
 # anki_decks
 
 <div align="center">
-  <img height="60" src="https://img.icons8.com/color/344/javascript.png">
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Anki-icon.svg/1200px-Anki-icon.svg.png">
   <h1>Full Stack Anki Flashcards</h1>
   <br>
   <a href="https://ankiweb.net/shared/info/1982258792?cb=1695936303593"> Download the Anki deck here </a>
