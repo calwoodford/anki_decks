@@ -114,7 +114,7 @@ How might one check the version of npm installed via the terminal?
 <p>
 
 ```javascript
-npm - v;
+npm - v
 ```
 
 OR
