@@ -23,7 +23,6 @@ SQL databases are ideal for structured data with well-defined schemas and relati
 
 What is Postgres?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -37,7 +36,6 @@ Postgres, short for PostgreSQL, is an open-source relational database management
 ###### Question 3.
 
 What is the difference between Postgres and SQL?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -53,7 +51,6 @@ SQL is a language used to manage and query relational databases, while Postgres 
 
 What does SQL stand for?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -67,7 +64,6 @@ SQL stands for "Structured Query Language," which is a domain-specific language 
 ###### Question 5.
 
 What is a relational database?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -83,7 +79,6 @@ A relational database is a type of database that organizes data into structured 
 
 What is the benefit of using a relational database?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -98,12 +93,10 @@ Relational databases provide data integrity, support complex queries, and enable
 
 What is a primary key?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
 A primary key is a unique identifier for a record in a table. It ensures that each row is uniquely identifiable.
-
 
 </p>
 </details>
@@ -113,7 +106,6 @@ A primary key is a unique identifier for a record in a table. It ensures that ea
 ###### Question 8.
 
 What is a foreign key?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -129,7 +121,6 @@ A foreign key is a field in a table that links to the primary key of another tab
 
 Postgres, MySQL, Amazon RDS, Microsoft SQL Server, and Oracle are all what?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -143,7 +134,6 @@ They are all examples of relational databases.
 ###### Question 10.
 
 Is Postgres open or closed source?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -159,7 +149,6 @@ Postgres is open source, meaning its source code is publicly available for inspe
 
 What is the role of SQL?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -174,7 +163,6 @@ SQL is used to define, manipulate, and query data in relational databases.
 
 What are column and table names known as?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -187,8 +175,7 @@ Column and table names are known as identifiers in SQL.
 
 ###### Question 13.
 
-How to select the entire table?
-
+How to select an entire table?
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -202,8 +189,7 @@ Use the `SELECT *` statement. Example: `SELECT * FROM tableName;`
 
 ###### Question 14.
 
-Does keywords have to be capitalized in SQL?
-
+Do the keywords have to be capitalized in SQL?
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -219,7 +205,6 @@ No, SQL keywords are not case-sensitive, but it's a common convention to capital
 
 What is normalization?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -233,7 +218,6 @@ Normalization is the process of organizing data in a database to reduce redundan
 ###### Question 16.
 
 What is an ERD, and what does it do?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -249,7 +233,6 @@ An ERD (Entity-Relationship Diagram) is a visual representation of the relations
 
 How can you refer to a column in a table?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -263,7 +246,6 @@ You can refer to a column in the format `tableName.columnName`. Example: `SELECT
 ###### Question 18.
 
 How might `SELECT` be used in a query?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -279,11 +261,10 @@ How might `SELECT` be used in a query?
 
 How might `FROM` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
-`FROM` specifies the table or tables from which to retrieve data. Example: SELECT * FROM tableName;
+`FROM` specifies the table or tables from which to retrieve data. Example: SELECT \* FROM tableName;
 
 </p>
 </details>
@@ -293,7 +274,6 @@ How might `FROM` be used in a query?
 ###### Question 20.
 
 How might `WHERE` be used in a query?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -309,7 +289,6 @@ How might `WHERE` be used in a query?
 
 How might `ORDER` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -323,7 +302,6 @@ How might `ORDER` be used in a query?
 ###### Question 22.
 
 How might `ORDER BY` be used in a query?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -339,7 +317,6 @@ How might `ORDER BY` be used in a query?
 
 How might `SELECT *` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -353,7 +330,6 @@ How might `SELECT *` be used in a query?
 ###### Question 24.
 
 How might `INNER JOIN` be used in a query?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -369,7 +345,6 @@ How might `INNER JOIN` be used in a query?
 
 How might `ON` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -383,7 +358,6 @@ How might `ON` be used in a query?
 ###### Question 26.
 
 How might `LIMIT` be used in a query?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -399,7 +373,6 @@ How might `LIMIT` be used in a query?
 
 How might `AND` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -413,7 +386,6 @@ How might `AND` be used in a query?
 ###### Question 28.
 
 How might `OR` be used in a query?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -429,7 +401,6 @@ How might `OR` be used in a query?
 
 How might `IN` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -443,7 +414,6 @@ How might `IN` be used in a query?
 ###### Question 30.
 
 How might `NOT IN` be used in a query?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -459,7 +429,6 @@ How might `NOT IN` be used in a query?
 
 How might `BETWEEN` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -473,7 +442,6 @@ How might `BETWEEN` be used in a query?
 ###### Question 32.
 
 How might `NOT BETWEEN` be used in a query?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -489,7 +457,6 @@ How might `NOT BETWEEN` be used in a query?
 
 How might `DISTINCT` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -503,7 +470,6 @@ How might `DISTINCT` be used in a query?
 ###### Question 34.
 
 How might `ASC`/`DESC` be used in a query?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -519,7 +485,6 @@ How might `ASC`/`DESC` be used in a query?
 
 How might `OFFSET` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -533,7 +498,6 @@ How might `OFFSET` be used in a query?
 ###### Question 36.
 
 How might `JOIN` be used in a query?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -549,7 +513,6 @@ How might `JOIN` be used in a query?
 
 How might `INNER JOIN` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -563,7 +526,6 @@ How might `INNER JOIN` be used in a query?
 ###### Question 38.
 
 How might `LEFT JOIN` be used in a query?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -579,7 +541,6 @@ How might `LEFT JOIN` be used in a query?
 
 How might `RIGHT JOIN` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -593,7 +554,6 @@ How might `RIGHT JOIN` be used in a query?
 ###### Question 40.
 
 How might `FULL JOIN` be used in a query?
-
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -609,7 +569,6 @@ How might `FULL JOIN` be used in a query?
 
 How might `NULL` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -624,7 +583,6 @@ How might `NULL` be used in a query?
 
 How might `AS` be used in a query?
 
-
 <details><summary><b>Answer</b></summary>
 <p>
 
@@ -634,4 +592,3 @@ How might `AS` be used in a query?
 </details>
 
 <br><br>
-
