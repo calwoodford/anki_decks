@@ -213,7 +213,7 @@ What is normalisation?
 <details><summary><b>Answer</b></summary>
 <p>
 
-Normalisation is the process of organizing data in a database to reduce redundancy and improve data integrity.
+Normalisation is the process of organising data in a database to reduce redundancy and improve data integrity.
 
 </p>
 </details>
