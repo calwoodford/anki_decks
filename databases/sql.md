@@ -1,9 +1,15 @@
 <div align="center">
   <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png?20210130181641">
-  <h1>SQL Questions and Answers</h1>
+  <h1>SQL/PostgreSQL Questions and Answers</h1>
     <br><br>
-
+  <br>
+  <a href="https://ankiweb.net/shared/info/376600095?cb=1696104749579"> Download the Anki deck here </a>
+  <br>
 </div>
+
+<br>
+
+<br>
 
 ###### Question 1.
 
@@ -508,7 +514,6 @@ How might `JOIN` be used in a query?
 </details>
 
 <br><br>
-
 
 ###### Question 37.
 
