@@ -203,7 +203,7 @@ No, SQL keywords are not case-sensitive, but it's a common convention to capital
 
 ###### Question 15.
 
-What is normalization?
+What is normalisation?
 
 <details><summary><b>Answer</b></summary>
 <p>
