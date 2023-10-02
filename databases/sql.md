@@ -231,12 +231,12 @@ An ERD (Entity-Relationship Diagram) is a visual representation of the relations
 
 ###### Question 17.
 
-How can you refer to a column in a table?
+How can one refer to a column in a table?
 
 <details><summary><b>Answer</b></summary>
 <p>
 
-You can refer to a column in the format `tableName.columnName`. Example: `SELECT tableName.columnName FROM tableName;`
+One can refer to a column in the format `tableName.columnName`. Example: `SELECT tableName.columnName FROM tableName;`
 
 </p>
 </details>
@@ -509,21 +509,8 @@ How might `JOIN` be used in a query?
 
 <br><br>
 
+
 ###### Question 37.
-
-How might `INNER JOIN` be used in a query?
-
-<details><summary><b>Answer</b></summary>
-<p>
-
-`INNER JOIN` combines rows where there is a match in both tables based on the join condition. Example: `SELECT * FROM table1 INNER JOIN table2 ON table1.column = table2.column;`
-
-</p>
-</details>
-
-<br><br>
-
-###### Question 38.
 
 How might `LEFT JOIN` be used in a query?
 
@@ -537,7 +524,7 @@ How might `LEFT JOIN` be used in a query?
 
 <br><br>
 
-###### Question 39.
+###### Question 38.
 
 How might `RIGHT JOIN` be used in a query?
 
@@ -551,7 +538,7 @@ How might `RIGHT JOIN` be used in a query?
 
 <br><br>
 
-###### Question 40.
+###### Question 39.
 
 How might `FULL JOIN` be used in a query?
 
@@ -565,7 +552,7 @@ How might `FULL JOIN` be used in a query?
 
 <br><br>
 
-###### Question 41.
+###### Question 40.
 
 How might `NULL` be used in a query?
 
@@ -579,7 +566,7 @@ How might `NULL` be used in a query?
 
 <br><br>
 
-###### Question 42.
+###### Question 41.
 
 How might `AS` be used in a query?
 
