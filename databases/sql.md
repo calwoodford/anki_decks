@@ -583,3 +583,183 @@ How might `AS` be used in a query?
 </details>
 
 <br><br>
+
+###### Question 42.
+
+What is a schema?
+
+<details><summary><b>Answer</b></summary>
+
+A schema in SQL is a logical container for organizing database objects such as tables, views, and indexes. For example, you can create a schema called "my_schema" to group related tables and other database objects.
+
+</details>
+<br><br>
+
+###### Question 43.
+
+What does COUNT(\*) do?
+
+<details><summary><b>Answer</b></summary>
+
+COUNT(\*) is an SQL function used to count the total number of rows in a table, including rows with NULL values. For example, to count the number of rows in a "students" table:
+
+SELECT COUNT(\*) FROM students;
+
+</details>
+<br><br>
+
+###### Question 44.
+
+What does INSERT INTO do?
+
+<details><summary><b>Answer</b></summary>
+
+INSERT INTO is an SQL statement used to insert new records (rows) into a table. For example, to insert a new student into a "students" table:
+
+INSERT INTO students (first_name, last_name, age) VALUES ('John', 'Doe', 25);
+
+</details>
+<br><br>
+
+###### Question 45.
+
+Explain VALUES.
+
+<details><summary><b>Answer</b></summary>
+
+In SQL, VALUES is used to specify the data that you want to insert into a table when using the INSERT INTO statement. For example, in the following SQL statement, "John" and "Doe" are values for the "first_name" and "last_name" columns:
+
+INSERT INTO students (first_name, last_name, age) VALUES ('John', 'Doe', 25);
+
+</details>
+<br><br>
+
+###### Question 46.
+
+What does UPDATE do?
+
+<details><summary><b>Answer</b></summary>
+
+UPDATE is an SQL statement used to modify existing records in a table. For example, to update the age of a student with the ID of 1:
+
+UPDATE students SET age = 26 WHERE id = 1;
+
+</details>
+<br><br>
+
+###### Question 47.
+
+What does SET do?
+
+<details><summary><b>Answer</b></summary>
+
+SET is used with the UPDATE statement to specify the columns you want to modify and the new values you want to assign to those columns. For example, in the following SQL statement, "age = 26" sets the "age" column to 26:
+
+UPDATE students SET age = 26 WHERE id = 1;
+
+</details>
+<br><br>
+
+###### Question 48.
+
+What does DELETE FROM do?
+
+<details><summary><b>Answer</b></summary>
+
+DELETE FROM is an SQL statement used to delete records from a table based on specified conditions. For example, to delete all students with an age less than 18:
+
+DELETE FROM students WHERE age < 18;
+
+</details>
+<br><br>
+
+###### Question 49.
+
+What does CREATE TABLE IF NOT EXISTS do?
+
+<details><summary><b>Answer</b></summary>
+
+CREATE TABLE IF NOT EXISTS is an SQL statement used to create a new table if it doesn't already exist. For example, to create a "students" table if it doesn't exist:
+
+CREATE TABLE IF NOT EXISTS students (
+id INT PRIMARY KEY,
+first_name VARCHAR(50),
+last_name VARCHAR(50),
+age INT
+);
+
+</details>
+<br><br>
+
+###### Question 50.
+
+What does ALTER TABLE do?
+
+<details><summary><b>Answer</b></summary>
+
+ALTER TABLE is an SQL statement used to modify an existing table structure, such as adding, modifying, or deleting columns. For example, to add a new "email" column to a "students" table:
+
+ALTER TABLE students ADD COLUMN email VARCHAR(100);
+
+</details>
+<br><br>
+
+###### Question 51.
+
+What does DROP do?
+
+<details><summary><b>Answer</b></summary>
+
+DROP is an SQL statement used to delete database objects like tables, indexes, or views. For example, to delete a "students" table:
+
+DROP TABLE students;
+
+</details>
+<br><br>
+
+###### Question 52.
+
+What does RENAME TO do?
+
+<details><summary><b>Answer</b></summary>
+
+RENAME TO is used to rename an existing table in SQL. For example, to rename a "old_table" to "new_table":
+
+ALTER TABLE old_table RENAME TO new_table;
+
+</details>
+<br><br>
+
+###### Question 53.
+
+What does AND do?
+
+<details><summary><b>Answer</b></summary>
+
+AND is a logical operator in SQL used to combine multiple conditions in a WHERE clause. All conditions must be true for a row to be included in the result set. For example, to retrieve students who are both male and have an age greater than 18:
+
+SELECT \* FROM students WHERE gender = 'Male' AND age > 18;
+
+</details>
+<br><br>
+
+###### Question 54.
+
+What does DROP TABLE IF EXISTS do?
+
+<details><summary><b>Answer</b></summary>
+
+DROP TABLE IF EXISTS is an SQL statement used to delete a table if it exists, helping to avoid errors when trying to delete a non-existent table. For example, to delete a "students" table if it exists:
+
+DROP TABLE IF EXISTS students;
+
+</details>
+<br><br>
+
+###### Question 55.
+
+Does indentation mean anything in SQL?
+
+<details><summary><b>Answer</b></summary>
+
+In SQL, indentation is not significant; it's used for code readability and formatting but does not affect the query's functionality.
