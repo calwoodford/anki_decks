@@ -589,9 +589,11 @@ How might `AS` be used in a query?
 What is a schema?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 A schema in SQL is a logical container for organizing database objects such as tables, views, and indexes. For example, you can create a schema called "my_schema" to group related tables and other database objects.
 
+</p>
 </details>
 <br><br>
 
@@ -600,11 +602,13 @@ A schema in SQL is a logical container for organizing database objects such as t
 What does COUNT(\*) do?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 COUNT(\*) is an SQL function used to count the total number of rows in a table, including rows with NULL values. For example, to count the number of rows in a "students" table:
 
 SELECT COUNT(\*) FROM students;
 
+</p>
 </details>
 <br><br>
 
@@ -613,11 +617,13 @@ SELECT COUNT(\*) FROM students;
 What does INSERT INTO do?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 INSERT INTO is an SQL statement used to insert new records (rows) into a table. For example, to insert a new student into a "students" table:
 
 INSERT INTO students (first_name, last_name, age) VALUES ('John', 'Doe', 25);
 
+</p>
 </details>
 <br><br>
 
@@ -626,11 +632,13 @@ INSERT INTO students (first_name, last_name, age) VALUES ('John', 'Doe', 25);
 Explain VALUES.
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 In SQL, VALUES is used to specify the data that you want to insert into a table when using the INSERT INTO statement. For example, in the following SQL statement, "John" and "Doe" are values for the "first_name" and "last_name" columns:
 
 INSERT INTO students (first_name, last_name, age) VALUES ('John', 'Doe', 25);
 
+</p>
 </details>
 <br><br>
 
@@ -639,11 +647,13 @@ INSERT INTO students (first_name, last_name, age) VALUES ('John', 'Doe', 25);
 What does UPDATE do?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 UPDATE is an SQL statement used to modify existing records in a table. For example, to update the age of a student with the ID of 1:
 
 UPDATE students SET age = 26 WHERE id = 1;
 
+</p>
 </details>
 <br><br>
 
@@ -652,11 +662,13 @@ UPDATE students SET age = 26 WHERE id = 1;
 What does SET do?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 SET is used with the UPDATE statement to specify the columns you want to modify and the new values you want to assign to those columns. For example, in the following SQL statement, "age = 26" sets the "age" column to 26:
 
 UPDATE students SET age = 26 WHERE id = 1;
 
+</p>
 </details>
 <br><br>
 
@@ -665,11 +677,13 @@ UPDATE students SET age = 26 WHERE id = 1;
 What does DELETE FROM do?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 DELETE FROM is an SQL statement used to delete records from a table based on specified conditions. For example, to delete all students with an age less than 18:
 
 DELETE FROM students WHERE age < 18;
 
+</p>
 </details>
 <br><br>
 
@@ -678,6 +692,7 @@ DELETE FROM students WHERE age < 18;
 What does CREATE TABLE IF NOT EXISTS do?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 CREATE TABLE IF NOT EXISTS is an SQL statement used to create a new table if it doesn't already exist. For example, to create a "students" table if it doesn't exist:
 
@@ -688,6 +703,7 @@ last_name VARCHAR(50),
 age INT
 );
 
+</p>
 </details>
 <br><br>
 
@@ -696,11 +712,13 @@ age INT
 What does ALTER TABLE do?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 ALTER TABLE is an SQL statement used to modify an existing table structure, such as adding, modifying, or deleting columns. For example, to add a new "email" column to a "students" table:
 
 ALTER TABLE students ADD COLUMN email VARCHAR(100);
 
+</p>
 </details>
 <br><br>
 
@@ -709,11 +727,13 @@ ALTER TABLE students ADD COLUMN email VARCHAR(100);
 What does DROP do?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 DROP is an SQL statement used to delete database objects like tables, indexes, or views. For example, to delete a "students" table:
 
 DROP TABLE students;
 
+</p>
 </details>
 <br><br>
 
@@ -722,11 +742,13 @@ DROP TABLE students;
 What does RENAME TO do?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 RENAME TO is used to rename an existing table in SQL. For example, to rename a "old_table" to "new_table":
 
 ALTER TABLE old_table RENAME TO new_table;
 
+</p>
 </details>
 <br><br>
 
@@ -735,11 +757,13 @@ ALTER TABLE old_table RENAME TO new_table;
 What does AND do?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 AND is a logical operator in SQL used to combine multiple conditions in a WHERE clause. All conditions must be true for a row to be included in the result set. For example, to retrieve students who are both male and have an age greater than 18:
 
 SELECT \* FROM students WHERE gender = 'Male' AND age > 18;
 
+</p>
 </details>
 <br><br>
 
@@ -748,11 +772,13 @@ SELECT \* FROM students WHERE gender = 'Male' AND age > 18;
 What does DROP TABLE IF EXISTS do?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 DROP TABLE IF EXISTS is an SQL statement used to delete a table if it exists, helping to avoid errors when trying to delete a non-existent table. For example, to delete a "students" table if it exists:
 
 DROP TABLE IF EXISTS students;
 
+</p>
 </details>
 <br><br>
 
@@ -761,5 +787,10 @@ DROP TABLE IF EXISTS students;
 Does indentation mean anything in SQL?
 
 <details><summary><b>Answer</b></summary>
+<p>
 
 In SQL, indentation is not significant; it's used for code readability and formatting but does not affect the query's functionality.
+
+</p>
+</details>
+<br><br>
