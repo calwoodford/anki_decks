@@ -292,12 +292,12 @@ How might `WHERE` be used in a query?
 
 ###### Question 21.
 
-How might `ORDER` be used in a query?
+How might `ORDER BY` be used in a query?
 
 <details><summary><b>Answer</b></summary>
 <p>
 
-`ORDER` is not used by itself but is often followed by `BY` to sort results. Example: `SELECT * FROM tableName ORDER BY columnName;`
+Example: `SELECT * FROM tableName ORDER BY columnName;`
 
 </p>
 </details>
