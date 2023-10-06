@@ -297,20 +297,6 @@ How might `ORDER BY` be used in a query?
 <details><summary><b>Answer</b></summary>
 <p>
 
-Example: `SELECT * FROM tableName ORDER BY columnName;`
-
-</p>
-</details>
-
-<br><br>
-
-###### Question 22.
-
-How might `ORDER BY` be used in a query?
-
-<details><summary><b>Answer</b></summary>
-<p>
-
 `ORDER BY` is used to sort results in ascending (ASC) or descending (DESC) order. Example: `SELECT * FROM tableName ORDER BY columnName ASC;`
 
 </p>
@@ -318,7 +304,7 @@ How might `ORDER BY` be used in a query?
 
 <br><br>
 
-###### Question 23.
+###### Question 22.
 
 How might `SELECT *` be used in a query?
 
@@ -332,7 +318,7 @@ How might `SELECT *` be used in a query?
 
 <br><br>
 
-###### Question 24.
+###### Question 23.
 
 How might `INNER JOIN` be used in a query?
 
@@ -346,7 +332,7 @@ How might `INNER JOIN` be used in a query?
 
 <br><br>
 
-###### Question 25.
+###### Question 24.
 
 How might `ON` be used in a query?
 
@@ -360,7 +346,7 @@ How might `ON` be used in a query?
 
 <br><br>
 
-###### Question 26.
+###### Question 25.
 
 How might `LIMIT` be used in a query?
 
@@ -374,7 +360,7 @@ How might `LIMIT` be used in a query?
 
 <br><br>
 
-###### Question 27.
+###### Question 26.
 
 How might `AND` be used in a query?
 
@@ -388,7 +374,7 @@ How might `AND` be used in a query?
 
 <br><br>
 
-###### Question 28.
+###### Question 27.
 
 How might `OR` be used in a query?
 
@@ -402,7 +388,7 @@ How might `OR` be used in a query?
 
 <br><br>
 
-###### Question 29.
+###### Question 28.
 
 How might `IN` be used in a query?
 
@@ -416,7 +402,7 @@ How might `IN` be used in a query?
 
 <br><br>
 
-###### Question 30.
+###### Question 29.
 
 How might `NOT IN` be used in a query?
 
@@ -430,7 +416,7 @@ How might `NOT IN` be used in a query?
 
 <br><br>
 
-###### Question 31.
+###### Question 30.
 
 How might `BETWEEN` be used in a query?
 
@@ -444,7 +430,7 @@ How might `BETWEEN` be used in a query?
 
 <br><br>
 
-###### Question 32.
+###### Question 31.
 
 How might `NOT BETWEEN` be used in a query?
 
@@ -458,7 +444,7 @@ How might `NOT BETWEEN` be used in a query?
 
 <br><br>
 
-###### Question 33.
+###### Question 32.
 
 How might `DISTINCT` be used in a query?
 
@@ -472,7 +458,7 @@ How might `DISTINCT` be used in a query?
 
 <br><br>
 
-###### Question 34.
+###### Question 33.
 
 How might `ASC`/`DESC` be used in a query?
 
@@ -486,7 +472,7 @@ How might `ASC`/`DESC` be used in a query?
 
 <br><br>
 
-###### Question 35.
+###### Question 34.
 
 How might `OFFSET` be used in a query?
 
@@ -500,7 +486,7 @@ How might `OFFSET` be used in a query?
 
 <br><br>
 
-###### Question 36.
+###### Question 35.
 
 How might `JOIN` be used in a query?
 
@@ -514,7 +500,7 @@ How might `JOIN` be used in a query?
 
 <br><br>
 
-###### Question 37.
+###### Question 36.
 
 How might `LEFT JOIN` be used in a query?
 
@@ -528,7 +514,7 @@ How might `LEFT JOIN` be used in a query?
 
 <br><br>
 
-###### Question 38.
+###### Question 37.
 
 How might `RIGHT JOIN` be used in a query?
 
@@ -542,7 +528,7 @@ How might `RIGHT JOIN` be used in a query?
 
 <br><br>
 
-###### Question 39.
+###### Question 38.
 
 How might `FULL JOIN` be used in a query?
 
@@ -556,7 +542,7 @@ How might `FULL JOIN` be used in a query?
 
 <br><br>
 
-###### Question 40.
+###### Question 39.
 
 How might `NULL` be used in a query?
 
@@ -570,7 +556,7 @@ How might `NULL` be used in a query?
 
 <br><br>
 
-###### Question 41.
+###### Question 40.
 
 How might `AS` be used in a query?
 
@@ -584,7 +570,7 @@ How might `AS` be used in a query?
 
 <br><br>
 
-###### Question 42.
+###### Question 41.
 
 What is a schema?
 
@@ -597,7 +583,7 @@ A schema in SQL is a logical container for organizing database objects such as t
 </details>
 <br><br>
 
-###### Question 43.
+###### Question 42.
 
 What does COUNT(\*) do?
 
@@ -612,7 +598,7 @@ SELECT COUNT(\*) FROM students;
 </details>
 <br><br>
 
-###### Question 44.
+###### Question 43.
 
 What does INSERT INTO do?
 
@@ -627,7 +613,7 @@ INSERT INTO students (first_name, last_name, age) VALUES ('John', 'Doe', 25);
 </details>
 <br><br>
 
-###### Question 45.
+###### Question 44.
 
 Explain VALUES.
 
@@ -642,7 +628,7 @@ INSERT INTO students (first_name, last_name, age) VALUES ('John', 'Doe', 25);
 </details>
 <br><br>
 
-###### Question 46.
+###### Question 45.
 
 What does UPDATE do?
 
@@ -657,7 +643,7 @@ UPDATE students SET age = 26 WHERE id = 1;
 </details>
 <br><br>
 
-###### Question 47.
+###### Question 46.
 
 What does SET do?
 
@@ -672,7 +658,7 @@ UPDATE students SET age = 26 WHERE id = 1;
 </details>
 <br><br>
 
-###### Question 48.
+###### Question 47.
 
 What does DELETE FROM do?
 
@@ -687,7 +673,7 @@ DELETE FROM students WHERE age < 18;
 </details>
 <br><br>
 
-###### Question 49.
+###### Question 48.
 
 What does CREATE TABLE IF NOT EXISTS do?
 
@@ -707,7 +693,7 @@ age INT
 </details>
 <br><br>
 
-###### Question 50.
+###### Question 49.
 
 What does ALTER TABLE do?
 
@@ -722,7 +708,7 @@ ALTER TABLE students ADD COLUMN email VARCHAR(100);
 </details>
 <br><br>
 
-###### Question 51.
+###### Question 50.
 
 What does DROP do?
 
@@ -737,7 +723,7 @@ DROP TABLE students;
 </details>
 <br><br>
 
-###### Question 52.
+###### Question 51.
 
 What does RENAME TO do?
 
@@ -752,7 +738,7 @@ ALTER TABLE old_table RENAME TO new_table;
 </details>
 <br><br>
 
-###### Question 53.
+###### Question 52.
 
 What does AND do?
 
@@ -767,7 +753,7 @@ SELECT \* FROM students WHERE gender = 'Male' AND age > 18;
 </details>
 <br><br>
 
-###### Question 54.
+###### Question 53.
 
 What does DROP TABLE IF EXISTS do?
 
@@ -782,7 +768,7 @@ DROP TABLE IF EXISTS students;
 </details>
 <br><br>
 
-###### Question 55.
+###### Question 54.
 
 Does indentation mean anything in SQL?
 
