@@ -18,6 +18,8 @@
 
 Questions and answers for [Anki](https://apps.ankiweb.net/) spaced repetition software decks. Created for the content of the [School of Code bootcamp](https://www.schoolofcode.co.uk/).
 
+"Every minute of your life which passes resculpts, often imperceptibly, the way your neurons are wired together. Anki is a tool which allows you to get certain neurons to fire together at an interval which science has loosely deemed 'optimal' for keeping them wired together." - [Reddit guy](https://www.reddit.com/r/Anki/comments/171gwp3/its_not_retaining_information_its_sculpting_your/)
+
 ---
 
 Please feel free to submit pull requests, which will be added to the decks on the [Anki Web website](https://ankiweb.net/shared/info/376600095?cb=1696104749579). This will download all of the decks, you will be able to choose between topics once it's installed on your system.
