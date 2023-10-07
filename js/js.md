@@ -1,3 +1,12 @@
+<div align="center">
+  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <h1>JavaScript Questions and Answers</h1>
+    <br>
+  <a href="https://ankiweb.net/shared/info/376600095?cb=1696104749579"> Download the Anki deck here </a>
+  <br><br>
+</div>
+
+
 Question 1.
 What is JavaScript?
 
