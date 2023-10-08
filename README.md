@@ -18,8 +18,6 @@
 
 Questions and answers for [Anki](https://apps.ankiweb.net/) spaced repetition software decks. Created for the content of the [School of Code bootcamp](https://www.schoolofcode.co.uk/).
 
-"Every minute of your life which passes resculpts, often imperceptibly, the way your neurons are wired together. Anki is a tool which allows you to get certain neurons to fire together at an interval which science has loosely deemed 'optimal' for keeping them wired together." - [Reddit guy](https://www.reddit.com/r/Anki/comments/171gwp3/its_not_retaining_information_its_sculpting_your/)
-
 ---
 
 Please feel free to submit pull requests, which will be added to the decks on the [Anki Web website](https://ankiweb.net/shared/info/376600095?cb=1696104749579). This will download all of the decks, you will be able to choose between topics once it's installed on your system.
@@ -36,6 +34,9 @@ It is available to use on their web app, desktop software or via their [iOS app]
 
 The benefit of using their mobile app is that it allows one to study whilst on the move, whilst fulfilling other commitments or during downtime such as waiting in a queue.
 
+"Every minute of your life which passes resculpts, often imperceptibly, the way your neurons are wired together. Anki is a tool which allows you to get certain neurons to fire together at an interval which science has loosely deemed 'optimal' for keeping them wired together." - [Reddit guy](https://www.reddit.com/r/Anki/comments/171gwp3/its_not_retaining_information_its_sculpting_your/)
+
+'The competitive nature of plasticity affects us all. There is an endless war of nerves going on inside each of our brains. If we stop exercising our mental skills, we do not just forget them: the brain map space for those skills is turned over to the skills we practice instead. If you ever ask yourself, “How often must I practice French, or guitar, or math to keep on top of it?” you are asking a question about competitive plasticity. You are asking how frequently you must practice one activity to make sure its brain map space is not lost to another.' - The Brain That Changes Itself, Norman Doidge.
 </div>
 
 ---
