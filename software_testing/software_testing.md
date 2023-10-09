@@ -190,7 +190,7 @@ add "test" : "vitest" to the scripts --> npx vitest
 
 Question 16.
 
-How can we create a test file?
+How can we create a test file with Vitest?
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -203,7 +203,7 @@ import { test } from "vitest";
 
 Question 17.
 
-How can we create a test skeleton?
+How can we create a test skeleton whilst using Vitest?
 
 <details><summary><b>Answer</b></summary>
 <p>
