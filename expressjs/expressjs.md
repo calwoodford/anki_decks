@@ -1020,3 +1020,18 @@ An endpoint in Express.js is a specific URL path and HTTP method combination tha
 </details>
 
 <br><br>
+
+###### Question 59.
+
+What is a callback function?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+A callback is a function passed as an argument to another function. 
+
+</p>
+</details>
+
+<br><br>
+
