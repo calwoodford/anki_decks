@@ -8,14 +8,14 @@ Each PR MUST respect the following guidelines:
 - You should add the flashcard in the README.md file using this pattern:
 
 ```javascript
-###### question number.
+###### Question number.
 
-question goes here
+Question goes here
 
 <details><summary><b>Answer</b></summary>
 <p>
 
-answer
+Answer goes here
 
 </p>
 </details>
