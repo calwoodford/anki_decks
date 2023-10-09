@@ -172,7 +172,7 @@ const app = express();
 ```
 
 ```javascript
-const port = 3000;
+const port = <port choice>;
 ```
 
 ```javascript
