@@ -113,7 +113,7 @@ Atomic commit prefix for adding a feature.
 
 <details><summary><b>Answer</b></summary>
 
-docs:
+added:
 
 </details>
 <br><br>
