@@ -129,7 +129,7 @@ Postgres, MySQL, Amazon RDS, Microsoft SQL Server, and Oracle are all what?
 <details><summary><b>Answer</b></summary>
 <p>
 
-They are all examples of relational databases.
+Relational database management systems.
 
 </p>
 </details>
