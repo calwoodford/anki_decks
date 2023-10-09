@@ -9,11 +9,12 @@
 
 Question 1.
 
-What is a unit test?
+What is a unit test? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
-A unit test is a type of software testing where individual components or functions of a program are tested in isolation to ensure they work correctly.
+
+A test that checks individual parts of a program.
 
 </p>
 </details>
@@ -21,11 +22,11 @@ A unit test is a type of software testing where individual components or functio
 
 Question 2.
 
-What is an integration test?
+What is an integration test? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
-An integration test is a type of software testing that focuses on verifying the interactions between different components or modules of a software system.
+A test that checks how different parts of a program work together.
 
 </p>
 </details>
@@ -33,11 +34,11 @@ An integration test is a type of software testing that focuses on verifying the 
 
 Question 3.
 
-What is a system test?
+What is a system test? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
-A system test is a type of software testing that evaluates the entire software system to ensure that it meets specified requirements and functions correctly as a whole.
+A test that checks if the whole program works as expected.
 
 </p>
 </details>
@@ -45,11 +46,11 @@ A system test is a type of software testing that evaluates the entire software s
 
 Question 4.
 
-What is GUI testing?
+What is GUI testing? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
-GUI testing, or Graphical User Interface testing, is a type of software testing that focuses on verifying the functionality and usability of a software application's graphical user interface.
+A test that checks the graphical interface of a program.
 
 </p>
 </details>
@@ -57,23 +58,25 @@ GUI testing, or Graphical User Interface testing, is a type of software testing 
 
 Question 5.
 
-What are the benefits of a unit test?
+What are the benefits of a unit test? (4)
 
 <details><summary><b>Answer</b></summary>
 <p>
-The benefits of a unit test include early detection of defects, easier debugging, improved code quality, and better code maintainability.
-
+Early defect detection.
+Easier debugging.
+Improved code quality.
+Better code maintenance.
 </p>
 </details>
 <br><br>
 
 Question 6.
 
-What is black box testing?
+What is black box testing? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
-Black box testing is a type of software testing that focuses on testing the functionality of a software application without knowledge of its internal code or implementation details.
+Testing without knowing the internal code.
 
 </p>
 </details>
@@ -81,23 +84,25 @@ Black box testing is a type of software testing that focuses on testing the func
 
 Question 7.
 
-What is automated testing?
+What is automated testing? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
-Automated testing is the process of using automated test scripts and tools to execute test cases and verify the behavior of a software application.
-
+Testing using automated scripts and tools.
 </p>
 </details>
 <br><br>
 
 Question 8.
 
-What are the benefits of automated testing?
+What are the benefits of automated testing? (4)
 
 <details><summary><b>Answer</b></summary>
 <p>
-The benefits of automated testing include faster test execution, repeatability, reduced human error, and the ability to run tests across different environments.
+Faster testing.
+Consistency.
+Reduced errors.
+Cross-environment testing.
 
 </p>
 </details>
@@ -105,11 +110,11 @@ The benefits of automated testing include faster test execution, repeatability, 
 
 Question 9.
 
-What is a smoke test?
+What is a smoke test? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
-A smoke test is a type of software test that checks whether the basic and critical functions of a software application are working without major issues.
+A basic test for critical functions.
 
 </p>
 </details>
@@ -117,11 +122,13 @@ A smoke test is a type of software test that checks whether the basic and critic
 
 Question 10.
 
-What are the benefits of a smoke test?
+What are the benefits of a smoke test? (3)
 
 <details><summary><b>Answer</b></summary>
 <p>
-The benefits of a smoke test include early detection of critical issues, faster feedback, and the ability to prevent more extensive testing if critical functionality is not working.
+Early issue detection.
+Quick feedback.
+Prevents extensive testing.
 
 </p>
 </details>
@@ -129,11 +136,11 @@ The benefits of a smoke test include early detection of critical issues, faster 
 
 Question 11.
 
-What is test-driven development (TDD)?
+What is test-driven development (TDD)? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
-Test-driven development (TDD) is a software development approach where tests are written before writing the actual code. It helps ensure that the code meets the desired functionality.
+Writing tests before code.
 
 </p>
 </details>
@@ -141,11 +148,11 @@ Test-driven development (TDD) is a software development approach where tests are
 
 Question 12.
 
-What is static testing?
+What is static testing? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
-Static testing is a type of software testing that reviews and analyzes software documentation, code, or design without executing the program.
+Reviewing code or documentation without executing it.
 
 </p>
 </details>
@@ -153,11 +160,11 @@ Static testing is a type of software testing that reviews and analyzes software 
 
 Question 13.
 
-What is end-to-end testing?
+What is end-to-end testing? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
-End-to-end testing is a type of software testing that evaluates the entire flow of a software application, simulating real user interactions and scenarios.
+Testing the entire application's flow.
 
 </p>
 </details>
