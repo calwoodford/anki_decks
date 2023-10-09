@@ -253,7 +253,7 @@ What is `req` in Express.js?
 <details><summary><b>Answer</b></summary>
 <p>
 
-This is an object that represents the incoming HTTP request from the client, which includes information about the URL, headers, and more.
+Stands for 'request'. This is an object that represents the incoming HTTP request from the client, which includes information about the URL, headers, and more.
 
 </p>
 </details>
