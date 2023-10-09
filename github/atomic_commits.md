@@ -108,27 +108,10 @@ docs:
 </details>
 <br><br>
 
+</details>
+<br><br>
+
 Question 11.
-Atomic commit prefix for adding a feature.
-
-<details><summary><b>Answer</b></summary>
-
-added:
-
-</details>
-<br><br>
-
-Question 12.
-Atomic commit prefix for documentation only changes.
-
-<details><summary><b>Answer</b></summary>
-
-docs:
-
-</details>
-<br><br>
-
-Question 13.
 Atomic commit prefix for a change that improves performance.
 
 <details><summary><b>Answer</b></summary>
@@ -138,7 +121,7 @@ perf:
 </details>
 <br><br>
 
-Question 14.
+Question 12.
 Atomic commit prefix for a change that refactors.
 
 <details><summary><b>Answer</b></summary>
@@ -148,7 +131,7 @@ refactor:
 </details>
 <br><br>
 
-Question 15.
+Question 13.
 Atomic commit prefix for a changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc).
 
 <details><summary><b>Answer</b></summary>
@@ -158,7 +141,7 @@ style:
 </details>
 <br><br>
 
-Question 16.
+Question 14.
 Atomic commit prefix for adding missing tests or correcting existing tests.
 
 <details><summary><b>Answer</b></summary>
@@ -168,7 +151,7 @@ test:
 </details>
 <br><br>
 
-Question 17.
+Question 15.
 Atomic commit prefix for a symbol to present a breaking change.
 
 <details><summary><b>Answer</b></summary>
