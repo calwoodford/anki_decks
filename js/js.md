@@ -413,3 +413,11 @@ A closure in the context of callbacks and asynchronous JavaScript is a function 
 
 </details>
 <br><br>
+Question 51.
+What does dynamically typed language means in JavaScript?
+
+<details><summary><b>Answer</b></summary>
+Dynamically typed language means that data types of variables are determined by the value they hold at runtime and can change throughout the program as you assign different values to them.
+
+</details>
+<br><br>
