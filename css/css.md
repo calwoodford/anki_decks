@@ -15,10 +15,10 @@ CSS stands for Cascading Style Sheets, and its primary purpose in web developmen
 </details>
 <br><br>
 Question 2.
-How do you link an external CSS file to an HTML document?
+How do you link a external CSS file to a HTML document?
 
 <details><summary><b>Answer</b></summary>
-To link an external CSS file to an HTML document, you use the < link > element in the HTML document's < head > section. The < link > element specifies the stylesheet's path using the href attribute.
+To link an external CSS file to a HTML document, you use the < link > element in the HTML document's < head > section. The < link > element specifies the stylesheet's path using the href attribute.
 
 </details>
 <br><br>
