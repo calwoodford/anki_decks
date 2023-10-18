@@ -31,10 +31,10 @@ The three primary ways to include CSS styles in a HTML document are inline style
 </details>
 <br><br>
 Question 4.
-What is the difference between inline, internal, and external CSS?
+Explain the concept of specificity in CSS and how it affects the application of styles.
 
 <details><summary><b>Answer</b></summary>
-Inline CSS is applied directly to individual HTML elements using the style attribute, while internal CSS is defined within a < style> element in the HTML's < head>. External CSS, on the other hand, is stored in separate .css files and linked to the HTML document.
+Specificity in CSS refers to the rules that determine which styles are applied to an element when conflicting styles exist. It is calculated based on the type of selector and the number of IDs, classes, and elements used. More specific selectors take precedence
  
 </details>
 <br><br>
