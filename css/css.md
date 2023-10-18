@@ -27,6 +27,6 @@ What are the three primary ways to include CSS styles in a HTML document?
 
 <details><summary><b>Answer</b></summary>
 The three primary ways to include CSS styles in a HTML document are inline styles, internal styles, and external styles. Inline styles are applied directly to a HTML element using the style attribute, internal styles are defined within a < style > element in the HTML's < head >, and external styles are stored in separate CSS files linked to the HTML document.
-
+ 
 </details>
 <br><br>
