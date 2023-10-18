@@ -30,3 +30,11 @@ The three primary ways to include CSS styles in a HTML document are inline style
  
 </details>
 <br><br>
+Question 4.
+What is the difference between inline, internal, and external CSS?
+
+<details><summary><b>Answer</b></summary>
+Inline CSS is applied directly to individual HTML elements using the style attribute, while internal CSS is defined within a < style> element in the HTML's < head>. External CSS, on the other hand, is stored in separate .css files and linked to the HTML document.
+ 
+</details>
+<br><br>
