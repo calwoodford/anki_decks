@@ -75,3 +75,13 @@ CSS transitions allow for smooth animations by gradually changing property value
  
 </details>
 <br><br>
+
+Question 8.
+What are pseudo-classes in CSS?
+
+<details><summary><b>Answer</b></summary>
+A Pseudo class in CSS is used to define the special state of an element. It can be combined with a CSS selector to add an effect to existing elements based on their states. For Example, Hover, Active, Focus, Visited and so on.
+ 
+</details>
+<br><br>
+
