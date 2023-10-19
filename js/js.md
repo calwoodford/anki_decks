@@ -424,7 +424,7 @@ Question 52.
 What does Hoisting mean in JavaScript?
 
 <details><summary><b>Answer</b></summary>
-The Default behaviour of javascript to send all variables and function declarations are moved to the top. They will always be top of the scope, either local or global.
+The Default behaviour of javascript to send all variables and function declarations to the top is called Hoisting. They will always be on top of the scope, either local or global.
 
 </details>
 <br><br>
