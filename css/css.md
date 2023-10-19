@@ -67,3 +67,11 @@ Selectors can also be combined to create more specific and targeted styles.
 </p>
 </details>
 <br><br>
+Question 7.
+What are CSS transitions, and how can they be used to create smooth animations?
+
+<details><summary><b>Answer</b></summary>
+CSS transitions allow for smooth animations by gradually changing property values over time. They can be used for various effects like fading, sliding, or scaling elements
+ 
+</details>
+<br><br>
