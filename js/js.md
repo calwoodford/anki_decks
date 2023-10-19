@@ -419,5 +419,20 @@ What does dynamically typed language mean in JavaScript?
 <details><summary><b>Answer</b></summary>
 Dynamically typed languages mean that the data type of a variable is determined by the value it has at runtime and can change throughout the program as you assign different values to it.
 
+<br><br>
+Question 52.
+What does Hoisting mean in JavaScript?
+
+<details><summary><b>Answer</b></summary>
+The Default behaviour of javascript to send all variables and function declarations are moved to the top. They will always be top of the scope, either local or global.
+
+</details>
+<br><br>
+Question 53.
+What is Memoization?
+
+<details><summary><b>Answer</b></summary>
+Memoization is an optimization technique that makes applications more efficient and hence faster. It consists of storing in cache the output of a function, and making the function check if each required computation is in the cache before computing it.
+
 </details>
 <br><br>
