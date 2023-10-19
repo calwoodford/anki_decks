@@ -30,9 +30,16 @@ The three primary ways to include CSS styles in a HTML document are inline style
  
 </details>
 <br><br>
-
 Question 4.
-Question: What are CSS selectors and how do they work?
+What is the purpose of media queries, and how do you use them to create responsive layouts?
+
+<details><summary><b>Answer</b></summary>
+<p>
+Media queries in CSS are used to apply different styles to a web page based on the characteristics of the device or screen it's viewed on, such as width, height, or orientation. By defining specific conditions in media queries, we can create responsive layouts that adapt to various screen sizes and devices, ensuring a better user experience across different platforms.
+</p>
+
+Question 5.
+What are CSS selectors and how do they work?
 
 <details><summary><b>Answer</b></summary>
 <p>
