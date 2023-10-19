@@ -1,7 +1,7 @@
 Each PR MUST respect the following guidelines:
 
 
-- Only one flashcard per PR is allowed.
+- Max three flashcards per PR allowed.
 
 - Verify that the information is correct and the question/answer is not already in the deck.
 

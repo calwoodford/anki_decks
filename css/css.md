@@ -31,10 +31,39 @@ The three primary ways to include CSS styles in a HTML document are inline style
 </details>
 <br><br>
 Question 4.
+
 Explain the concept of specificity in CSS and how it affects the application of styles.
 
 <details><summary><b>Answer</b></summary>
 Specificity in CSS refers to the rules that determine which styles are applied to an element when conflicting styles exist. It is calculated based on the type of selector and the number of IDs, classes, and elements used. More specific selectors take precedence
  
+</details>
+<br><br>
+Question 5.
+What is the purpose of media queries, and how do you use them to create responsive layouts?
+
+<details><summary><b>Answer</b></summary>
+<p>
+Media queries in CSS are used to apply different styles to a web page based on the characteristics of the device or screen it's viewed on, such as width, height, or orientation. By defining specific conditions in media queries, we can create responsive layouts that adapt to various screen sizes and devices, ensuring a better user experience across different platforms.
+</p>
+</details>
+<br><br>
+
+Question 6.
+What are CSS selectors and how do they work?
+
+<details><summary><b>Answer</b></summary>
+<p>
+CSS selectors are patterns used to select and style HTML elements. They define the elements to which a set of CSS rules should be applied. Selectors can target elements based on their type, class, ID, attributes, and more.
+
+For example:
+
+Element Selector: Targets specific HTML elements. Example: p { color: blue; }
+Class Selector: Targets elements with a specific class attribute. Example: .my-class { font-weight: bold; }
+ID Selector: Targets a single element with a specific ID attribute. Example: #my-id { text-decoration: underline; }
+Attribute Selector: Targets elements based on their attribute values. Example: input[type="text"] { background-color: #f0f0f0; }
+Selectors can also be combined to create more specific and targeted styles.
+
+</p>
 </details>
 <br><br>
