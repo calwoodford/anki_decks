@@ -75,3 +75,11 @@ CSS transitions allow for smooth animations by gradually changing property value
  
 </details>
 <br><br>
+Question 8.
+What is the concept of "inheritance" in CSS and how does it affect the cascading nature of styles?
+
+<details><summary><b>Answer</b></summary>
+Inheritance in CSS refers to the mechanism by which styles are passed down from a parent element to its child elements. Child elements inherit styles from their ancestors unless overridden by specific rules.
+ 
+</details>
+<br><br>
