@@ -27,12 +27,19 @@ If you have previously downloaded the decks and added them to Anki, to get updat
 Note: These questions and answers were created in autumn 2023 and information may become outdated in the future.
 
 ---
+<br>
+<div align="center">
+<img src="./images/anki_screen.png" height="250px"  alt="Anki screen">
+</div>
+<br>
 
 Anki is [spaced repetition](https://quantifiedself.com/blog/spaced-repetition-and-learning/) software that optimises learning by showing you flashcards, asking you to rate how difficult you found answering it, and then showing you cards that you found more difficult more often.
 
 It is available to use on their web app, desktop software or via their [iOS app](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387).
 
 The benefit of using their mobile app is that it allows one to study whilst on the move, whilst fulfilling other commitments or during downtime such as waiting in a queue.
+
+----
 
 "Every minute of your life which passes resculpts, often imperceptibly, the way your neurons are wired together. Anki is a tool which allows you to get certain neurons to fire together at an interval which science has loosely deemed 'optimal' for keeping them wired together." - [Reddit guy](https://www.reddit.com/r/Anki/comments/171gwp3/its_not_retaining_information_its_sculpting_your/)
 
