@@ -100,3 +100,14 @@ In summary, margin is the space outside the border, and padding is the space ins
 </p>
 </details>
 <br><br>
+
+Question 10.
+Question: How can you use CSS to create a responsive navigation menu for different screen sizes?
+
+<details><summary><b>Answer</b></summary>
+<p>
+You can use CSS to create a responsive navigation menu for different screen sizes by using media queries to adjust the menu's layout and appearance based on the device's width. This can include changing menu styles or converting it into a dropdown for smaller screens.
+
+</p>
+</details>
+<br><br>
