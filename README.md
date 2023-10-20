@@ -40,3 +40,9 @@ The benefit of using their mobile app is that it allows one to study whilst on t
 </div>
 
 ---
+
+## Contributors
+
+<a href="https://github.com/calwoodford/anki_decks/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=calwoodford/anki_decks" />
+</a>
