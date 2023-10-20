@@ -5,6 +5,8 @@ Each PR MUST respect the following guidelines:
 
 - Verify that the information is correct and the question/answer is not already in the deck.
 
+- Correct grammar and spelling.
+
 - You should add the flashcard in the README.md file using this pattern:
 
 ```javascript
