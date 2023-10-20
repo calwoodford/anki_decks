@@ -83,3 +83,20 @@ Inheritance in CSS refers to the mechanism by which styles are passed down from 
  
 </details>
 <br><br>
+
+Question 9.
+Question: What is the difference between margin and padding in CSS?
+
+<details><summary><b>Answer</b></summary>
+<p>
+Margin: Margin is the space outside the border of an element. It clears the area between the border and adjacent elements. It does not have a background color, and it's transparent by default. Margin is used for creating space between elements.
+Example: margin: 10px;
+
+Padding: Padding is the space between the content of an element and its border. It clears the area between the content and the border. Padding is often used to increase the readability and aesthetics of the content inside an element.
+Example: padding: 10px;
+
+In summary, margin is the space outside the border, and padding is the space inside the border around the content.
+
+</p>
+</details>
+<br><br>
