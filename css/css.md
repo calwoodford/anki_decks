@@ -111,3 +111,14 @@ You can use CSS to create a responsive navigation menu for different screen size
 </p>
 </details>
 <br><br>
+
+Question 11.
+Question: Describe the CSS "z-index" property and explain its use in stacking elements.
+
+<details><summary><b>Answer</b></summary>
+<p>
+CSS "z-index" is used to control the stacking order of elements. A higher value brings an element to the front of the stacking context.
+
+</p>
+</details>
+<br><br>
