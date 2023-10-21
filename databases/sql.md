@@ -929,3 +929,59 @@ In SQL, indentation is not significant; it's used for code readability and forma
 </p>
 </details>
 <br><br>
+
+###### Question 55.
+
+What are DDL commands?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+DDL (Data Definition Language) commands are used to define the database schema. It simply deals with descriptions of the database schema and is used to create or modify the structure of database objects in the database. Some of them are as follows:
+- CREATE
+- DROP
+- ALTER
+- TRUNCATE
+- RENAME
+
+</p>
+</details>
+
+<br><br>
+
+###### Question 56.
+
+What are DML commands?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+DML (Data Manipulation Language) commands deal with the manipulation of data present in teh database. It is the component of the SQL statement taht controls the access to data and to the database. Some of them are as follows:
+- INSERT
+- UPDATE
+- DELETE
+- CALL
+- LOCK
+
+</p>
+</details>
+
+<br><br>
+
+###### Question 57.
+
+What are TCL commands?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+TCL (Transaction Control Language) commands are used to control the start and end of transactions and to ensure data consistency and integrity in a database. Some of them are as follows:
+- COMMIT
+- SAVEPOINT
+- ROLLBACK
+
+</p>
+</details>
+
+<br><br>
+
