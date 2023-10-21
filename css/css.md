@@ -122,3 +122,19 @@ CSS "z-index" is used to control the stacking order of elements. A higher value 
 </p>
 </details>
 <br><br>
+
+Question 12.
+Question: What is the CSS pseudo-class and how is it used in styling elements?
+
+<details><summary><b>Answer</b></summary>
+<p>
+A CSS pseudo-class is a keyword that specifies a special state of the selected element(s). Pseudo-classes are used to style elements when they are in a certain state or condition, such as when a user hovers over an element or when an element is the first child of its parent.
+
+Example:
+a:hover {
+    color: red;
+}
+
+</p>
+</details>
+<br><br>
