@@ -100,3 +100,76 @@ In summary, margin is the space outside the border, and padding is the space ins
 </p>
 </details>
 <br><br>
+
+Question 10.
+Question: How can you use CSS to create a responsive navigation menu for different screen sizes?
+
+<details><summary><b>Answer</b></summary>
+<p>
+You can use CSS to create a responsive navigation menu for different screen sizes by using media queries to adjust the menu's layout and appearance based on the device's width. This can include changing menu styles or converting it into a dropdown for smaller screens.
+
+</p>
+</details>
+<br><br>
+
+Question 11.
+Question: Describe the CSS "z-index" property and explain its use in stacking elements.
+
+<details><summary><b>Answer</b></summary>
+<p>
+CSS "z-index" is used to control the stacking order of elements. A higher value brings an element to the front of the stacking context.
+
+</p>
+</details>
+<br><br>
+
+Question 12.
+Question: What is the CSS pseudo-class and how is it used in styling elements?
+
+<details><summary><b>Answer</b></summary>
+<p>
+A CSS pseudo-class is a keyword that specifies a special state of the selected element(s). Pseudo-classes are used to style elements when they are in a certain state or condition, such as when a user hovers over an element or when an element is the first child of its parent.
+
+Example:
+a:hover {
+    color: red;
+}
+
+</p>
+</details>
+<br><br>
+
+###### Question 13.
+
+How do you include custom fonts in a web page using CSS?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+To include custom fonts in a webpage using CSS:
+
+1. Choose a custom font source.
+2. Host or download font files (e.g., .woff, .woff2).
+3. Define the `@font-face` rule in your CSS with the font-family and src properties.
+4. Apply the custom font using the font-family property to specific HTML elements.
+5. Link your CSS in your HTML document's head section.
+
+This allows your webpage to use the specified custom font.
+</p>
+</details>
+
+<br><br>
+
+###### Question 14.
+
+How do you center an element horizontally and vertically using CSS?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+To center an element both horizontally and vertically in CSS, use Flexbox or CSS Grid. With Flexbox, apply "display: flex" and use "justify-content" and "align-items." For CSS Grid, use "display: grid" and "place-items: center."
+
+</p>
+</details>
+
+<br><br>
