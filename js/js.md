@@ -505,9 +505,9 @@ Question 45.
 What is the async and await syntax in JavaScript? What do they do? (1)(2)
 
 <details><summary><b>Answer</b></summary>
-Provide a more readable way to work with promises and perform asynchronous operations.
-The async keyword is used to define an asynchronous function.
-The await keyword is used to pause the execution of a function until a promise is resolved.
+1) Provide a more readable way to work with promises and perform asynchronous operations.
+2) The async keyword is used to define an asynchronous function.
+3) The await keyword is used to pause the execution of a function until a promise is resolved.
 
 </details>
 <br><br>
