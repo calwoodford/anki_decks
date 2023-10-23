@@ -281,7 +281,8 @@ Question 30.
 What is AJAX in JavaScript? (What does it stand for and what does it do?) (2)
 
 <details><summary><b>Answer</b></summary>
-AJAX (Asynchronous JavaScript and XML) is a set of web development techniques that allow web applications to send and receive data from a server asynchronously without reloading the entire page.
+AJAX (Asynchronous JavaScript and XML).
+It is a set of web development techniques that allow web applications to send and receive data from a server asynchronously without reloading the entire page.
 
 </details>
 <br><br>
