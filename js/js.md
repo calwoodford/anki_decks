@@ -336,8 +336,10 @@ How do you export and import modules in JavaScript? (2)
 <details><summary><b>Answer</b></summary>
 To export from a module, you use export statements, and to import in another module, you use import statements. For example,
 
-```
+```javascript
 export function myFunction()
+```
+```javascript
 import { myFunction } from './myModule.js'.
 ```
 
