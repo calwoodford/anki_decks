@@ -595,3 +595,61 @@ List all composite data types in JavaScript. (5)
 
 </details>
 <br><br>
+
+Question 52.
+Define a function that turns a number to a string. What method do you need? (2)
+
+<details><summary><b>Answer</b></summary>
+1)
+```javascript
+function numberToString(num) {
+  return num.toString();
+}
+```
+2) toString();
+</details>
+<br><br>
+
+Question 53.
+What does 'Math.floor' do?(1)
+
+<details><summary><b>Answer</b></summary>
+1) The Math.floor() method rounds a number DOWN to the nearest integer.
+</details>
+<br><br>
+
+Question 54.
+What does 'Math.round' do?(1)
+
+<details><summary><b>Answer</b></summary>
+1) The Math.round() method rounds a number to the nearest integer. 2.49 will be rounded down (2), and 2.5 will be rounded up (3).
+</details>
+<br><br>
+
+Question 55.
+What is a first-class object in JavaScript?(1)
+
+<details><summary><b>Answer</b></summary>
+1) In JavaScript, functions are considered first-class objects. This means that functions can be treated like any other data type, such as numbers, strings, or objects.
+</details>
+<br><br>
+
+Question 56.
+What is 'block-scoped' in JavaScript? Give an example. (2)
+
+<details><summary><b>Answer</b></summary>
+1) "Block-scoped" refers to the concept of variable scope within a specific block of code, typically delimited by curly braces {}.
+2) 
+
+```javascript
+if (true) {
+  let x = 10; // x has block scope
+  const y = 20; // y also has block scope
+}
+
+console.log(x); // Error: x is not defined
+console.log(y); // Error: y is not defined
+```
+
+</details>
+<br><br>
