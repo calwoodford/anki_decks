@@ -76,7 +76,7 @@ What is a function in JavaScript? (3)
 </details>
 <br><br>
 Question 8.
-How do you define a function in JavaScript? (1)
+How do you define a function in JavaScript? Answer using an example. (1)
 
 <details><summary><b>Answer</b></summary>
 ```javascript
