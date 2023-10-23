@@ -416,7 +416,7 @@ console.log(add(5, 3)); // Outputs 8
 </details>
 <br><br>
 Question 40.
-What does map() create in JavaScript and how? Give a basic use of map().
+What does map() create in JavaScript and how? Give a basic use of map(). (2)
 
 <details><summary><b>Answer</b></summary>
 1) The map() function is used to create a new array by applying a provided function to each element of an existing array.
