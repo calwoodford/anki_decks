@@ -665,3 +665,67 @@ variable = str.split(''); // that's two single quotes, not one double quote.
 
 </details>
 <br><br>
+
+Question 58.
+How does pop() do in JavaScript? Use it in a code example. (2)
+
+<details><summary><b>Answer</b></summary>
+
+1) pop() is a method in Javascript whose function is to remove the final element from an array and to return that element.
+
+2)
+
+```javascript
+const myArray = [1, 2, 3, 4, 5];
+
+const lastElement = myArray.pop();
+
+console.log(lastElement); // Outputs the removed element, which is 5
+console.log(myArray);     // Outputs the modified array, which is [1, 2, 3, 4]
+
+```
+
+</details>
+<br><br>
+
+Question 59.
+How does unshift() do in JavaScript? Use it in a code example. (2)
+
+<details><summary><b>Answer</b></summary>
+
+1) The unshift() method adds new elements to the beginning of an array.
+
+2)
+
+```javascript
+const myArray = [2, 3, 4, 5];
+
+myArray.unshift(1); // Add the number 1 to the beginning of the array
+myArray.unshift(-1, 0); // Add -1 and 0 to the beginning of the array
+
+console.log(myArray); // Outputs the modified array: [-1, 0, 1, 2, 3, 4, 5]
+```
+
+</details>
+<br><br>
+
+Question 60.
+How does shift() do in JavaScript? Use it in a code example. (2)
+
+<details><summary><b>Answer</b></summary>
+
+1) The shift() method removes the element at the zeroth index and shifts the values at consecutive indexes down, then returns the removed value. 
+
+2)
+
+```javascript
+const myArray = [1, 2, 3, 4, 5];
+
+const firstElement = myArray.shift();
+
+console.log(firstElement); // Outputs the removed element, which is 1
+console.log(myArray);     // Outputs the modified array, which is [2, 3, 4, 5]
+```
+
+</details>
+<br><br>
