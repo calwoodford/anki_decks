@@ -653,3 +653,15 @@ console.log(y); // Error: y is not defined
 
 </details>
 <br><br>
+
+Question 57.
+How might one split a string into individual characters? (Answer via a code example). (1)
+
+<details><summary><b>Answer</b></summary>
+
+```javascript
+variable = str.split(''); // that's two single quotes, not one double quote.
+```
+
+</details>
+<br><br>
