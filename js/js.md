@@ -512,12 +512,12 @@ What is the async and await syntax in JavaScript? What do they do? (1)(2)
 </details>
 <br><br>
 Question 46.
-What is the purpose of the JavaScript try...catch statement? What does it allow? Give a basic example. (2)
+What is the purpose of the JavaScript try...catch statement? What does it allow? Give a basic example. (3)
 
 <details><summary><b>Answer</b></summary>
-The try...catch statement is used in JavaScript to handle exceptions (errors) that may occur during the execution of code.
-It allows you to gracefully handle errors and prevent them from crashing your program.
-
+1) The try...catch statement is used in JavaScript to handle exceptions (errors) that may occur during the execution of code.
+2) It allows you to gracefully handle errors and prevent them from crashing your program.
+3)
 ```javascript
 function divide(a, b) {
   try {
