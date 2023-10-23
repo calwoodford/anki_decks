@@ -667,7 +667,7 @@ variable = str.split(''); // that's two single quotes, not one double quote.
 <br><br>
 
 Question 58.
-How does pop() do in JavaScript? Use it in a code example. (2)
+What does pop() do in JavaScript? Use it in a code example. (2)
 
 <details><summary><b>Answer</b></summary>
 
@@ -689,7 +689,7 @@ console.log(myArray);     // Outputs the modified array, which is [1, 2, 3, 4]
 <br><br>
 
 Question 59.
-How does unshift() do in JavaScript? Use it in a code example. (2)
+What does unshift() do in JavaScript? Use it in a code example. (2)
 
 <details><summary><b>Answer</b></summary>
 
@@ -710,7 +710,7 @@ console.log(myArray); // Outputs the modified array: [-1, 0, 1, 2, 3, 4, 5]
 <br><br>
 
 Question 60.
-How does shift() do in JavaScript? Use it in a code example. (2)
+What does shift() do in JavaScript? Use it in a code example. (2)
 
 <details><summary><b>Answer</b></summary>
 
