@@ -292,7 +292,6 @@ How might `WHERE` be used in a query?
 
 ###### Question 21.
 
-<<<<<<< HEAD
 How might `ORDER` be used in a query?
 
 <details><summary><b>Answer</b></summary>
@@ -307,8 +306,6 @@ How might `ORDER` be used in a query?
 
 ###### Question 22.
 
-=======
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 How might `ORDER BY` be used in a query?
 
 <details><summary><b>Answer</b></summary>
@@ -321,11 +318,7 @@ How might `ORDER BY` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 23.
-=======
-###### Question 22.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `SELECT *` be used in a query?
 
@@ -339,11 +332,7 @@ How might `SELECT *` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 24.
-=======
-###### Question 23.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `INNER JOIN` be used in a query?
 
@@ -357,11 +346,7 @@ How might `INNER JOIN` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 25.
-=======
-###### Question 24.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `ON` be used in a query?
 
@@ -375,11 +360,7 @@ How might `ON` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 26.
-=======
-###### Question 25.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `LIMIT` be used in a query?
 
@@ -393,11 +374,7 @@ How might `LIMIT` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 27.
-=======
-###### Question 26.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `AND` be used in a query?
 
@@ -411,11 +388,7 @@ How might `AND` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 28.
-=======
-###### Question 27.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `OR` be used in a query?
 
@@ -429,11 +402,7 @@ How might `OR` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 29.
-=======
-###### Question 28.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `IN` be used in a query?
 
@@ -447,11 +416,7 @@ How might `IN` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 30.
-=======
-###### Question 29.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `NOT IN` be used in a query?
 
@@ -465,11 +430,7 @@ How might `NOT IN` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 31.
-=======
-###### Question 30.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `BETWEEN` be used in a query?
 
@@ -483,11 +444,7 @@ How might `BETWEEN` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 32.
-=======
-###### Question 31.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `NOT BETWEEN` be used in a query?
 
@@ -501,11 +458,7 @@ How might `NOT BETWEEN` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 33.
-=======
-###### Question 32.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `DISTINCT` be used in a query?
 
@@ -519,11 +472,7 @@ How might `DISTINCT` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 34.
-=======
-###### Question 33.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `ASC`/`DESC` be used in a query?
 
@@ -537,11 +486,7 @@ How might `ASC`/`DESC` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 35.
-=======
-###### Question 34.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `OFFSET` be used in a query?
 
@@ -555,11 +500,7 @@ How might `OFFSET` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 36.
-=======
-###### Question 35.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `JOIN` be used in a query?
 
@@ -573,11 +514,7 @@ How might `JOIN` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 37.
-=======
-###### Question 36.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `LEFT JOIN` be used in a query?
 
@@ -591,11 +528,7 @@ How might `LEFT JOIN` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 38.
-=======
-###### Question 37.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `RIGHT JOIN` be used in a query?
 
@@ -609,11 +542,7 @@ How might `RIGHT JOIN` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 39.
-=======
-###### Question 38.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `FULL JOIN` be used in a query?
 
@@ -627,11 +556,7 @@ How might `FULL JOIN` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 40.
-=======
-###### Question 39.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `NULL` be used in a query?
 
@@ -645,11 +570,7 @@ How might `NULL` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 41.
-=======
-###### Question 40.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 How might `AS` be used in a query?
 
@@ -663,11 +584,7 @@ How might `AS` be used in a query?
 
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 42.
-=======
-###### Question 41.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 What is a schema?
 
@@ -680,11 +597,7 @@ A schema in SQL is a logical container for organizing database objects such as t
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 43.
-=======
-###### Question 42.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 What does COUNT(\*) do?
 
@@ -699,11 +612,7 @@ SELECT COUNT(\*) FROM students;
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 44.
-=======
-###### Question 43.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 What does INSERT INTO do?
 
@@ -718,11 +627,7 @@ INSERT INTO students (first_name, last_name, age) VALUES ('John', 'Doe', 25);
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 45.
-=======
-###### Question 44.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 Explain VALUES.
 
@@ -737,11 +642,7 @@ INSERT INTO students (first_name, last_name, age) VALUES ('John', 'Doe', 25);
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 46.
-=======
-###### Question 45.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 What does UPDATE do?
 
@@ -756,11 +657,7 @@ UPDATE students SET age = 26 WHERE id = 1;
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 47.
-=======
-###### Question 46.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 What does SET do?
 
@@ -775,11 +672,7 @@ UPDATE students SET age = 26 WHERE id = 1;
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 48.
-=======
-###### Question 47.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 What does DELETE FROM do?
 
@@ -794,11 +687,7 @@ DELETE FROM students WHERE age < 18;
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 49.
-=======
-###### Question 48.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 What does CREATE TABLE IF NOT EXISTS do?
 
@@ -818,11 +707,7 @@ age INT
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 50.
-=======
-###### Question 49.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 What does ALTER TABLE do?
 
@@ -837,11 +722,7 @@ ALTER TABLE students ADD COLUMN email VARCHAR(100);
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 51.
-=======
-###### Question 50.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 What does DROP do?
 
@@ -856,11 +737,7 @@ DROP TABLE students;
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 52.
-=======
-###### Question 51.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 What does RENAME TO do?
 
@@ -875,11 +752,7 @@ ALTER TABLE old_table RENAME TO new_table;
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 53.
-=======
-###### Question 52.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 What does AND do?
 
@@ -894,11 +767,7 @@ SELECT \* FROM students WHERE gender = 'Male' AND age > 18;
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 54.
-=======
-###### Question 53.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 What does DROP TABLE IF EXISTS do?
 
@@ -913,11 +782,7 @@ DROP TABLE IF EXISTS students;
 </details>
 <br><br>
 
-<<<<<<< HEAD
 ###### Question 55.
-=======
-###### Question 54.
->>>>>>> 70e61204fd6f4b5d7d138f06eda30ccf666e5e2b
 
 Does indentation mean anything in SQL?
 
@@ -930,7 +795,7 @@ In SQL, indentation is not significant; it's used for code readability and forma
 </details>
 <br><br>
 
-###### Question 55.
+###### Question 56.
 
 What are DDL commands?
 
@@ -949,7 +814,7 @@ DDL (Data Definition Language) commands are used to define the database schema. 
 
 <br><br>
 
-###### Question 56.
+###### Question 57.
 
 What are DML commands?
 
@@ -968,7 +833,7 @@ DML (Data Manipulation Language) commands deal with the manipulation of data pre
 
 <br><br>
 
-###### Question 57.
+###### Question 58.
 
 What are TCL commands?
 
