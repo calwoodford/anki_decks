@@ -768,22 +768,6 @@ console.log(Math.max(...nums));
 ```javascript
 ###### Question 62.
 
-What is an arrow function in JavaScript? (1)
-
-<details><summary><b>Answer</b></summary>
-<p>
-
-An arrow function is a compact representation of a traditional function introduced by ECMAScript 6 (ES6) in JavaScript.  Unlike traditional functions, arrow functions cannot be used as constructors.
-
-</p>
-</details>
-
-<br><br>
-```
-
-```javascript
-###### Question 63.
-
 What is destructuring assignment in JavaScript? (1)
 
 <details><summary><b>Answer</b></summary>
