@@ -742,3 +742,46 @@ console.log(myArray);     // Outputs the modified array, which is [2, 3, 4, 5]
 
 </details>
 <br><br>
+
+
+```javascript
+###### Question 61.
+
+What is the spread syntax in JavaScript? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+Spread syntax (...) is used in JavaScript to expand the elements of an iterable object (e.g., an array) so that they may be accessed individually. 
+
+E.g., the following code snippet would output 100 after individually parsing all elements of the array nums and identifying the maximum one amongst them:
+
+const nums = [40, 100, 10];
+console.log(Math.max(...nums));
+
+</p>
+</details>
+
+<br><br>
+```
+
+```javascript
+###### Question 62.
+
+What is destructuring assignment in JavaScript? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+Destructuring assignment in JavaScript allows for array values or object properties to be assigned to different variables.
+
+E.g., the following code snippet would assign the value 200 to variable x and value 390 to variable y:
+
+let x, y;
+[x, y] = [200, 390];
+
+</p>
+</details>
+
+<br><br>
+```
