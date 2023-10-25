@@ -335,7 +335,7 @@ What is ECMAScript in JavaScript? What does it define? (2)
 </details>
 <br><br>
 Question 35.
-What is a module in JavaScript? (2)
+What is a module in JavaScript? What does it help with? (2)
 
 <details><summary><b>Answer</b></summary>
 1) A module in JavaScript is a self-contained unit of code that can be reused and imported into other JavaScript files.
