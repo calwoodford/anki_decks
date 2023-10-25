@@ -132,7 +132,7 @@ A CSS pseudo-class is a keyword that specifies a special state of the selected e
 
 Example:
 a:hover {
-    color: red;
+color: red;
 }
 
 </p>
@@ -155,6 +155,7 @@ To include custom fonts in a webpage using CSS:
 5. Link your CSS in your HTML document's head section.
 
 This allows your webpage to use the specified custom font.
+
 </p>
 </details>
 
@@ -172,4 +173,14 @@ To center an element both horizontally and vertically in CSS, use Flexbox or CSS
 </p>
 </details>
 
+<br><br>
+
+###### Question 15.
+
+What is CSS pre-processing, and how does it differ from regular CSS?
+
+<details><summary><b>Answer</b></summary>
+CSS pre-processing is a step in web development where a pre-processor (e.g., Sass or Less) is used to write CSS in a more structured and efficient manner. It differs from regular CSS in that it allows the use of variables, functions, nesting, and other features, which are then compiled into standard CSS.
+
+</details>
 <br><br>
