@@ -821,7 +821,7 @@ What are DML commands?
 <details><summary><b>Answer</b></summary>
 <p>
 
-DML (Data Manipulation Language) commands deal with the manipulation of data present in teh database. It is the component of the SQL statement taht controls the access to data and to the database. Some of them are as follows:
+DML (Data Manipulation Language) commands deal with the manipulation of data present in the database. It is the component of the SQL statement that controls the access to data and to the database. Some of them are as follows:
 - INSERT
 - UPDATE
 - DELETE
