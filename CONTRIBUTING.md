@@ -7,6 +7,8 @@ Each PR MUST respect the following guidelines:
 
 - Correct grammar and spelling.
 
+- You must verify that the questions do not already exist in the deck.
+
 - You must use bullet answer format and the question must dictate how many bullets are in the answer.
 
 - You should add the flashcard in the README.md file using this pattern:
