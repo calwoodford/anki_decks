@@ -260,7 +260,7 @@ How do you manipulate the DOM in JavaScript? (1)
 </details>
 <br><br>
 Question 28.
-What is JSON in JavaScript? What is it used for?
+What is JSON in JavaScript? What is it used for? (2)
 
 <details><summary><b>Answer</b></summary>
 1) JSON (JavaScript Object Notation)
