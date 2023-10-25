@@ -33,7 +33,7 @@ Note: These questions and answers were created in autumn 2023 and information ma
 </div>
 <br>
 
-Anki is [spaced repetition](https://quantifiedself.com/blog/spaced-repetition-and-learning/) software that optimises learning by showing you flashcards, asking you to rate how difficult you found answering it, and then showing you cards that you found more difficult more often.
+Anki is [spaced repetition](https://quantifiedself.com/blog/spaced-repetition-and-learning/) software that [optimises learning](https://gwern.net/spaced-repetition) by showing you flashcards, asking you to rate how difficult you found answering it, and then showing you cards that you found more difficult more often.
 
 It is available to use on their web app, desktop software or via their [iOS app](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387).
 
