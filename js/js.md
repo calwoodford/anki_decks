@@ -275,6 +275,19 @@ How do you parse JSON in JavaScript? What does this turn it into? (2)
 1) You can parse JSON in JavaScript using the JSON.parse() method.
 2) This method converts a JSON string into a JavaScript object.
 
+For example:
+
+// Sample JSON string
+var jsonString = '{"name": "John", "age": 30, "city": "New York"}';
+
+// Parse JSON string using JSON.parse()
+var parsedData = JSON.parse(jsonString);
+
+// Accessing the parsed data
+console.log("Name:", parsedData.name);
+console.log("Age:", parsedData.age);
+console.log("City:", parsedData.city);
+
 </details>
 <br><br>
 Question 30.
