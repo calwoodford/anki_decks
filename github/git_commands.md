@@ -1,4 +1,4 @@
-```javascript
+
 ###### Question 1.
 
 What does git checkout command accomplish? (1)
@@ -12,9 +12,7 @@ Git checkout allows a user to navigate to a specific branch. All commits now are
 </details>
 
 <br><br>
-```
 
-```javascript
 ###### Question 2.
 
 What does git commit command do? (1)
@@ -28,9 +26,7 @@ Git commit  creates a snapshot of the staged changes to a repository at a given 
 </details>
 
 <br><br>
-```
 
-```javascript
 ###### Question 3.
 
 What is the purpose of git push command? (1)
@@ -44,9 +40,7 @@ Git push is used to push the changes committed in local repository to the mapped
 </details>
 
 <br><br>
-```
 
-```javascript
 ###### Question 4.
 
 What does git diff command do? (1)
@@ -60,9 +54,7 @@ Git diff is used to show changes between 2 commits, a commit to the current work
 </details>
 
 <br><br>
-```
 
-```javascript
 ###### Question 5.
 
 What does git log command do? (1)
@@ -76,9 +68,7 @@ Git log is used to show the commit logs
 </details>
 
 <br><br>
-```
 
-```javascript
 ###### Question 6.
 
 What git commands can be used to change the current working branch to another branch? (2)
