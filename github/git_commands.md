@@ -81,7 +81,7 @@ What git commands can be used to change the current working branch to another br
 
 ###### Question 7.
 
-What command is used to find when was a change last made and who made the change to a particular line? (1)
+What command is used to find when a change was last made and who made the change to a particular line? (1)
 
 Git blame
 
@@ -92,7 +92,7 @@ Git blame
 
 ###### Question 8.
 
-What command is used to undo all uncommited change in the current working tree? (1)
+What command is used to undo all uncommited changes in the current working tree? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
@@ -111,7 +111,7 @@ What will git reset HEAD~1 do? (1)
 <details><summary><b>Answer</b></summary>
 <p>
 
-Undo the last commit and retain the changes made in last commit unstaged status
+Undo the last commit and retain the changes made in last commit unstaged status.
 
 </p>
 </details>
@@ -125,7 +125,7 @@ What does the git pull command do? (1)
 <details><summary><b>Answer</b></summary>
 <p>
 
-Git pull is used to Fetch and Merge changes on the remote server to your local working directory.
+Git pull is used to fetch and merge changes on the remote server to your local working directory.
 
 </p>
 </details>
