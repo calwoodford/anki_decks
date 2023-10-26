@@ -223,7 +223,7 @@ test("test name", <function> () {
 </details>
 <br><br>
 
-```javascript
+
 ###### Question 18.
 
 Who performs unit testing? (1)
@@ -237,9 +237,8 @@ Developers
 </details>
 
 <br><br>
-```
 
-```javascript
+
 ###### Question 19.
 
 In which order are unit, integration and systen testing performed? (1)
@@ -253,9 +252,8 @@ Unit Testing followed by Integration Testing followed by System Testing
 </details>
 
 <br><br>
-```
 
-```javascript
+
 ###### Question 20.
 
 What does STLC refer to? (1)
@@ -269,4 +267,4 @@ STLC (Software Testing Life Cycle) is a process for software testing that define
 </details>
 
 <br><br>
-```
+
