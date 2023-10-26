@@ -83,4 +83,43 @@ What git commands can be used to change the current working branch to another br
 </details>
 
 <br><br>
-```
+
+###### Question 7.
+
+What does the git pull command do? (1)
+<details><summary><b>Answer</b></summary>
+<p>
+
+Git pull is used to Fetch and Merge changes on the remote server to your local working directory.
+
+</p>
+</details>
+
+<br><br>
+
+###### Question 8.
+
+What does the git clone command do? (1)
+<details><summary><b>Answer</b></summary>
+<p>
+
+The git clone command creates a local copy of a remote Git repository by downloading its files and history. It establishes a local Git repository and sets up a connection to the remote one, allowing you to work with the code and collaborate.
+
+</p>
+</details>
+
+<br><br>
+
+###### Question 9.
+
+What does the git status command do? (1)
+<details><summary><b>Answer</b></summary>
+<p>
+
+The git status command provides information about the current state of your local Git repository. It shows which files are modified, untracked, or staged for the next commit, helping you track the status of your project and manage changes.
+
+</p>
+</details>
+
+<br><br>
+
