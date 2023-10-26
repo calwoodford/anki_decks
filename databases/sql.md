@@ -851,7 +851,6 @@ TCL (Transaction Control Language) commands are used to control the start and en
 <br><br>
 
 
-```javascript
 ###### Question 59.
 
 What does TRUNCATE TABLE do? (1)
@@ -865,9 +864,8 @@ TRUNCATE TABLE is a DDL (Data Definition Language) command used to delete all da
 </details>
 
 <br><br>
-```
 
-```javascript
+
 ###### Question 60.
 
 What does GROUP BY statement do? (1)
@@ -883,9 +881,8 @@ E.g., SELECT COUNT(empID), band FROM EMP GROUP BY band would list the count of e
 </details>
 
 <br><br>
-```
 
-```javascript
+
 ###### Question 61.
 
 What is the function of LIKE operator in SQL? (1)
@@ -901,4 +898,4 @@ E.g., SELECT empName from EMP WHERE empName LIKE 'a%' would return all employee 
 </details>
 
 <br><br>
-```
+
