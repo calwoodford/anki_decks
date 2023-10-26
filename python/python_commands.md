@@ -48,7 +48,7 @@ How can you reverse a list? (2)
 <details><summary><b>Answer</b></summary>
 <p>
 Using the `reverse()` method:
-
+              
 ```python
 my_list = [1, 2, 3, 4, 5]
 my_list.reverse()
@@ -57,6 +57,7 @@ print(my_list)
 ```
 
 Using slicing to make a reversed copy:
+
 ```python
 my_list = [1, 2, 3, 4, 5]
 reversed_list = my_list[::-1]
@@ -78,7 +79,6 @@ A lambda function in Python is a small anonymous function defined using the `lam
 add = lambda x, y: x + y
 result = add(5, 3)
 print(result)  # Output: 8
->>>>>>> main
 ```
 </p>
 </details>
@@ -92,13 +92,14 @@ How can you remove duplicates from a list in Python? (2)
 Use a set to remove duplicates, but this will not preserve the order.
   
 ```python
-Copy code
 my_list = [1, 2, 2, 3, 4, 4, 5]
 unique_list = list(set(my_list))
 print(unique_list)
 # Output: [1, 2, 3, 4, 5]
 ```
+  
 Use a loop to maintain order while removing duplicates.
+  
 ```python
 Copy code
 my_list = [1, 2, 2, 3, 4, 4, 5]
@@ -130,12 +131,7 @@ Copy code
 my_tuple = (1, 2, 3)
 # my_tuple[0] = 4  # This would raise an error
 ```
+
 </p>
 </details>
 <br><br>
-
-
-
-
-
-
