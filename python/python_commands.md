@@ -47,7 +47,8 @@ print(words)
 How can you reverse a list? (2)
 <details><summary><b>Answer</b></summary>
 <p>
-- Using the `reverse()` method:
+Using the `reverse()` method:
+
 ```python
 my_list = [1, 2, 3, 4, 5]
 my_list.reverse()
@@ -55,7 +56,7 @@ print(my_list)
 # Output: [5,4,3,2,1]
 ```
 
-- Using slicing to make a reversed copy:
+Using slicing to make a reversed copy:
 ```python
 my_list = [1, 2, 3, 4, 5]
 reversed_list = my_list[::-1]
@@ -72,6 +73,7 @@ What is a lambda function? How are these written in Python? (1)
 <details><summary><b>Answer</b></summary>
 <p>
 A lambda function in Python is a small anonymous function defined using the `lambda` keyword. It can have any number of parameters but can have only one statement.
+
 ```python
 add = lambda x, y: x + y
 result = add(5, 3)
