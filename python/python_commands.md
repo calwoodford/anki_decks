@@ -73,7 +73,8 @@ print(reversed_list)
 What is a lambda function? How are these written in Python? (1)
 <details><summary><b>Answer</b></summary>
 <p>
-A lambda function in Python is a small anonymous function defined using the `lambda` keyword. It can have any number of parameters but can have only one statement.
+
+A lambda function in Python is a small anonymous function defined using the `lambda` keyword. It can have any number of parameters but can have only one statement
 
 ```python
 add = lambda x, y: x + y
