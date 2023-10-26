@@ -850,3 +850,55 @@ TCL (Transaction Control Language) commands are used to control the start and en
 
 <br><br>
 
+
+```javascript
+###### Question 59.
+
+What does TRUNCATE TABLE do? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+TRUNCATE TABLE is a DDL (Data Definition Language) command used to delete all data from a table. Unlike DELETE FROM <table> command, filters cannot be applied while using this command. It will always delete all records from the specified table.
+
+</p>
+</details>
+
+<br><br>
+```
+
+```javascript
+###### Question 60.
+
+What does GROUP BY statement do? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+The GROUP BY statement is often used with aggregate functions (e.g., MAX(), MIN(), AVG(), SUM() etc.) in SQL to group records that have the same values.
+
+E.g., SELECT COUNT(empID), band FROM EMP GROUP BY band would list the count of employee IDs in each band.
+
+</p>
+</details>
+
+<br><br>
+```
+
+```javascript
+###### Question 61.
+
+What is the function of LIKE operator in SQL? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+The LIKE operator in SQL is used in the WHERE clause of a query to search for records where the value in specified column is as per specified pattern. Two wildcard characaters often used with the LIKE operator are '%' and '_'. '%' represents zero or more characters whereas '_' represents a single character.
+
+E.g., SELECT empName from EMP WHERE empName LIKE 'a%' would return all employee names starting with the character 'a'.
+
+</p>
+</details>
+
+<br><br>
+```
