@@ -743,8 +743,6 @@ console.log(myArray);     // Outputs the modified array, which is [2, 3, 4, 5]
 </details>
 <br><br>
 
-
-```javascript
 ###### Question 61.
 
 What is the spread syntax in JavaScript? (1)
@@ -763,9 +761,8 @@ console.log(Math.max(...nums));
 </details>
 
 <br><br>
-```
 
-```javascript
+
 ###### Question 62.
 
 What is destructuring assignment in JavaScript? (1)
@@ -784,4 +781,4 @@ let x, y;
 </details>
 
 <br><br>
-```
+
