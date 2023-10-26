@@ -79,12 +79,47 @@ What git commands can be used to change the current working branch to another br
 1) git switch
 2) git checkout
 
+###### Question 7.
+
+What command is used to find when was a change last made and who made the change to a particular line? (1)
+
+Git blame
+
 </p>
 </details>
 
 <br><br>
 
-###### Question 7.
+###### Question 8.
+
+What command is used to undo all uncommited change in the current working tree? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+Git stash
+
+</p>
+</details>
+
+<br><br>
+
+###### Question 9.
+
+What will git reset HEAD~1 do? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+Undo the last commit and retain the changes made in last commit unstaged status
+
+</p>
+</details>
+
+<br><br>
+
+
+###### Question 10.
 
 What does the git pull command do? (1)
 <details><summary><b>Answer</b></summary>
@@ -97,7 +132,7 @@ Git pull is used to Fetch and Merge changes on the remote server to your local w
 
 <br><br>
 
-###### Question 8.
+###### Question 11.
 
 What does the git clone command do? (1)
 <details><summary><b>Answer</b></summary>
@@ -110,7 +145,7 @@ The git clone command creates a local copy of a remote Git repository by downloa
 
 <br><br>
 
-###### Question 9.
+###### Question 12.
 
 What does the git status command do? (1)
 <details><summary><b>Answer</b></summary>
