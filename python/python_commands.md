@@ -65,6 +65,22 @@ print(reversed_list)
 </details>
 <br><br>
 
+###### Question 4
+
+What is a lambda function? How are these written in Python? (1)
+<details><summary><b>Answer</b></summary>
+<p>
+A lambda function in Python is a small anonymous function defined using the `lambda` keyword. It can have any number of parameters but can have only one statement.
+```python
+add = lambda x, y: x + y
+result = add(5, 3)
+print(result)  # Output: 8
+>>>>>>> main
+```
+</p>
+</details>
+<br><br>
+
 ###### Question 5.
 
 How can you remove duplicates from a list in Python? (2)
