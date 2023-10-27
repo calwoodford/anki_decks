@@ -68,7 +68,7 @@ print(reversed_list)
 </details>
 <br><br>
 
-###### Question 4
+###### Question 4.
 
 What is a lambda function? How are these written in Python? (1)
 <details><summary><b>Answer</b></summary>
@@ -180,5 +180,38 @@ print(squares)
 </p>
 </details>
 <br><br>
+
+###### Question 9.
+
+What are modules and packages in Python? (1)
+<details><summary><b>Answer</b></summary>
+<p>
+Python packages and Python modules are two mechanisms that allow for modular programming in Python.
+
+**Modules** are Python files with a `.py` extension and can have a set of functions, classes and variables and can be imported using the `import` command
+```python
+import foo
+import numpy as np
+```
+
+**Packages** are basically modules combined into a folder and help by providing a hierarchical structuring of module namespaces. You can import modules from a package using the `from` command.
+```python
+from my_package import module1
+from scipy import integrate
+```
+</p>
+</details>
+<br><br>
+
+###### Question 10.
+
+What is the `pandas` library used for in Python? (1)
+<details><summary><b>Answer</b></summary>
+<p>
+Pandas is an open-source, python library used in data manipulation of applications that require high performance. Pandas help perform five significant data analysis steps: load the data, clean/manipulate it, prepare it, model it and analyse it.
+</p>
+</details>
+<br><br>
+
 
 
