@@ -1,21 +1,36 @@
 ###### Question 1.
-What is a linked list? How does it differ from an array? (2)
+What is a linked list in data structures? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
-A linked list is a linear data structure in which elements are stored in nodes, and each node points to the next node in the sequence. In contrast to arrays, elements in a linked list are not stored in contiguous memory locations.
+A linked list is a linear data structure that consists of a sequence of elements, each containing a reference (link) to the next element in the sequence. Each element in a linked list is called a node, and each node contains two fields: a data field that stores the element, and a next field that stores the reference to the next node in the sequence.
 
-The main differences between a linked list and an array are:
-
-Memory Allocation:
-In arrays, memory is allocated in a contiguous block, while in linked lists, each element can be stored anywhere in memory, with the address of the next element stored in the node.
-
-Size:
-Arrays have a fixed size, whereas linked lists can grow or shrink dynamically.
-
-Access Time:
-In arrays, elements can be accessed directly by their index, while in linked lists, you have to traverse the list from the beginning to access an element.
 </p>
 </details>
 <br><br>
 
+###### Question 2.
+How does a singly linked list differ from a doubly linked list? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+In a singly linked list, each node has a reference to the next node in the sequence, but not to the previous node. In contrast, a doubly linked list has nodes that contain references to both the next and the previous nodes in the sequence. This allows for easier traversal in both directions (forward and backward) in a doubly linked list.
+
+</p>
+</details>
+<br><br>
+
+###### Question 3.
+What are the basic operations that can be performed on a linked list? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+The basic operations that can be performed on a linked list are:
+
+Insertion: Adding a new node to the list.
+Deletion: Removing a node from the list.
+Traversal: Accessing each node in the list, typically to display or process its data.
+Searching: Finding a node with a specific data value in the list.
+Updating: Changing the data value of a node in the list.
+</p>
+</details>
