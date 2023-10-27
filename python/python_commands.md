@@ -136,3 +136,49 @@ my_tuple = (1, 2, 3)
 </p>
 </details>
 <br><br>
+
+###### Question 7.
+How do you create a dictionary in Python? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+A dictionary in Python is created using curly braces {} with pairs of keys and values separated by colons :.
+
+```python
+Copy code
+# Creating a dictionary with three key-value pairs
+my_dict = {
+    'name': 'Alice',
+    'age': 25,
+    'city': 'New York'
+}
+
+print(my_dict)
+# Output: {'name': 'Alice', 'age': 25, 'city': 'New York'}
+```
+
+</p>
+</details>
+<br><br>
+
+###### Question 8.
+What is a list comprehension in Python? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+List comprehension is a concise way to create lists in Python. It consists of an expression followed by the for keyword and an optional if statement.
+
+```python
+Copy code
+# Using list comprehension to create a list of squares
+squares = [x**2 for x in range(10)]
+
+print(squares)
+# Output: [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+```
+
+</p>
+</details>
+<br><br>
+
+
