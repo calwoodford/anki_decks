@@ -220,6 +220,7 @@ How is a `pandas` dataframe created? (1)
 <p>
 A data frame is a 2D mutable and tabular structure representing data labelled with axes: rows and columns.
 Below is the syntax to create a data frame:
+
 ```python
 import pandas as pd
 dataframe = pd.DataFrame(data, index, columns, dtype)
@@ -240,17 +241,21 @@ How can different `pandas` dataframes be combined? (1)
 
 <details><summary><b>Answer</b></summary>
 <p>
+
 To stack the dataframes horizontally we use the `append()` method
+
 ```python
 df1.append(df2)
 ```
 
 To stack the dataframes vertically we use the `concat()` method
+
 ```python
 pd.concat([df1,df2])
 ```
 
 The `join` method is used to extract data from various data frames having one or more common columns.
+
 ```python
 df1.join(df2)
 ```
@@ -264,6 +269,7 @@ How can you add a new column to a pandas dataframe? (1)
 <details><summary><b>Answer</b></summary>
 <p>
 A new column can be added to a pandas dataframe as follows:
+
 ```python
 import pandas as pd      
 data_info = {'first' : pd.Series([1, 2, 3], index = ['a', 'b', 'c']),    
