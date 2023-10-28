@@ -213,5 +213,70 @@ Pandas is an open-source, python library used in data manipulation of applicatio
 </details>
 <br><br>
 
+###### Question 11.
 
+How is a `pandas` dataframe created? (1)
+<details><summary><b>Answer</b></summary>
+<p>
+A data frame is a 2D mutable and tabular structure representing data labelled with axes: rows and columns.
+Below is the syntax to create a data frame:
+```python
+import pandas as pd
+dataframe = pd.DataFrame(data, index, columns, dtype)
+```
+
+Here `data` represents various forms of data such as series,ndarrys,lists etc.
+`index` represents an index to row labels (Optional)
+`columns` is an argument for column labels (Optional)
+`dtype` is an argument for the data type of each column (Optional)
+
+</p>
+</details>
+<br><br>
+
+###### Question 12.
+
+How can different `pandas` dataframes be combined? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+To stack the dataframes horizontally we use the `append()` method
+```python
+df1.append(df2)
+```
+
+To stack the dataframes vertically we use the `concat()` method
+```python
+pd.concat([df1,df2])
+```
+
+The `join` method is used to extract data from various data frames having one or more common columns.
+```python
+df1.join(df2)
+```
+</p>
+</details>
+<br><br>
+
+###### Question 13.
+
+How can you add a new column to a pandas dataframe? (1)
+<details><summary><b>Answer</b></summary>
+<p>
+A new column can be added to a pandas dataframe as follows:
+```python
+import pandas as pd      
+data_info = {'first' : pd.Series([1, 2, 3], index = ['a', 'b', 'c']),    
+       'second' : pd.Series([1, 2, 3, 4], index = ['a', 'b', 'c', 'd'])}    
+  
+df = pd.DataFrame(data_info)    
+# To add new column third
+df['third']=pd.Series([10,20,30], index= ['a','b','c'])    
+    
+# To add new column fourth
+df['fourth'] = df['first'] + info['third']
+```
+</p>
+</details>
+<br><br>
 
