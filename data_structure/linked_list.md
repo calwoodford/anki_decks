@@ -70,3 +70,17 @@ Random access: Arrays provide constant time complexity for random access of elem
 </p>
 </details>
 <br><br>
+
+###### Question 6.
+What is a circular linked list? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+A circular linked list is a type of linked list in which the last node in the list points to the first node, forming a loop or circle. In other words, in a circular linked list, the next pointer of the last node does not point to NULL (as in a regular singly linked list), but instead points to the first node. This allows for more convenient circular traversal of the list.
+There are two types of circular linked lists:
+
+Singly circular linked list: Where each node has a reference only to the next node in the sequence.
+Doubly circular linked list: Where each node has references to both the next and the previous nodes in the sequence.
+</p>
+</details>
+<br><br>
