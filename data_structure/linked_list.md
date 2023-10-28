@@ -34,3 +34,23 @@ Searching: Finding a node with a specific data value in the list.
 Updating: Changing the data value of a node in the list.
 </p>
 </details>
+
+###### Question 4.
+How do you reverse a linked list? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+To reverse a singly linked list, you can use the following steps:
+Initialize three pointers: prev, current, and next. Set prev to NULL, and current to the head of the list.
+Iterate through the list until current is NULL. In each iteration, do the following:
+
+a. Save the next node of current in next.
+b. Change the next pointer of current to prev.
+c. Move prev to current and current to next.
+
+After the iteration, set the head of the list to prev.
+This will reverse the order of the nodes in the list, making the last node the new head.
+
+</p>
+</details>
+<br><br>
