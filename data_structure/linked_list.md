@@ -54,3 +54,19 @@ This will reverse the order of the nodes in the list, making the last node the n
 </p>
 </details>
 <br><br>
+
+###### Question 5.
+What are the advantages and disadvantages of a linked list over an array? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+Advantages of a linked list over an array:
+Dynamic size: A linked list can easily grow or shrink in size, while an array has a fixed size or requires reallocation to change size.
+Ease of insertion and deletion: Inserting or deleting an element in a linked list can be done with O(1) time complexity if the node is known, whereas in an array, it requires shifting of elements and has O(n) time complexity.
+Disadvantages of a linked list over an array:
+
+Memory overhead: Each element in a linked list requires additional memory for the next (and possibly previous) pointer, whereas an array only needs memory for the elements themselves.
+Random access: Arrays provide constant time complexity for random access of elements, while linked lists have O(n) time complexity for random access since they need to be traversed from the head to the desired element.
+</p>
+</details>
+<br><br>
