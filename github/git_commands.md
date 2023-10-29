@@ -158,3 +158,17 @@ The git status command provides information about the current state of your loca
 
 <br><br>
 
+###### Question 13.
+
+What does the git stash command do? (1)
+<details><summary><b>Answer</b></summary>
+<p>
+
+The git stash command is used to temporarily saves changes not ready for a commit which allows to switch branches and do work elsewhere.
+
+</p>
+</details>
+
+<br><br>
+
+
