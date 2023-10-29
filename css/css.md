@@ -184,3 +184,16 @@ CSS pre-processing is a step in web development where a pre-processor (e.g., Sas
 
 </details>
 <br><br>
+
+###### Question 16.
+
+In CSS, which property should you use to create a layout where the height of the elements adjusts based on their content, and the elements are stacked vertically, one below the other?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+Display
+
+</p>
+</details>
+<br><br>
