@@ -1035,3 +1035,17 @@ A callback is a function passed as an argument to another function.
 
 <br><br>
 
+###### Question 59.
+
+In Express.js, when should you use the req.params object and when should you use the req.query object to retrieve data from the URL?
+
+<details><summary><b>Answer</b></summary>
+
+<p>
+
+req.params should be used when retrieving data from the URL path, while req.query should be used when retrieving data from the URL query parameters.
+
+</p>
+</details>
+
+<br><br>
