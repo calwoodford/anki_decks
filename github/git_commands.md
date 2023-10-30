@@ -164,7 +164,7 @@ What does the git stash command do? (1)
 <details><summary><b>Answer</b></summary>
 <p>
 
-The git stash command is used to temporarily saves changes not ready for a commit which allows to switch branches and do work elsewhere.
+The `git stash` command is used to temporarily save changes that are not ready for a commit, allowing you to switch branches and work elsewhere.
 
 </p>
 </details>
