@@ -286,3 +286,16 @@ df['fourth'] = df['first'] + info['third']
 </details>
 <br><br>
 
+###### Question 14.
+
+In Python, which command should you use to iterate over two or more lists and perform an operation on corresponding elements?
+
+<details><summary><b>Answer</b></summary>
+
+<p>
+
+zip()
+
+</p>
+</details>
+<br><br>
