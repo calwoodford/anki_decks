@@ -782,3 +782,28 @@ let x, y;
 
 <br><br>
 
+###### Question 63.
+
+What is the basic structure of a switch statement in JS? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+```javascript
+switch(n){
+  case 1:  
+    //code block
+    break;
+  case 2:
+    //code block
+    break;
+  case ...:
+    //code block
+    break;
+```
+
+</p>
+</details>
+
+<br><br>
+
