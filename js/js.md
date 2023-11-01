@@ -807,3 +807,27 @@ switch(n){
 
 <br><br>
 
+###### Question 64.
+
+What is the basic structure of do... while in JS? (1)
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+The do..while is a variant of while. It can be written like this:
+
+```javascript
+function sum1_100(){
+  var sum=0,num=1;
+  do{
+    sum+=num;
+    num++;
+  }while (num<=100)
+  return sum;
+}
+```
+
+</p>
+</details>
+
+<br><br>
