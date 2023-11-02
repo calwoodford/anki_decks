@@ -409,7 +409,22 @@ How might `IN` be used in a query?
 <details><summary><b>Answer</b></summary>
 <p>
 
-`IN` is used to specify multiple values for a column in a WHERE clause. Example: `SELECT * FROM tableName WHERE column IN (value1, value2);`
+`IN` is used to specify multiple values for a column in a WHERE clause.
+
+Example: 
+
+SELECT *
+FROM tableName 
+WHERE column
+IN (value1, value2);
+
+
+Example:
+
+SELECT *
+FROM employees
+WHERE department_name
+IN ('Sales', 'Marketing');
 
 </p>
 </details>
