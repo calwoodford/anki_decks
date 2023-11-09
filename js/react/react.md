@@ -8,12 +8,10 @@
 
 
 Question 1.
-What is JavaScript? (3)
+What is class renamed to in React? (As in the class that goes in a HTML tag) (1)
 
 <details><summary><b>Answer</b></summary>
-1) High-level
-2) Dynamically typed
-3) Event-driven
+1) className
 
 </details>
 <br><br>
