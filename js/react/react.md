@@ -15,3 +15,11 @@ What is class renamed to in React? (As in the class that goes in a HTML tag) (1)
 
 </details>
 <br><br>
+Question 2.
+What is a way of initialising a React project with one command? (1)
+
+<details><summary><b>Answer</b></summary>
+1) npx create-react-app my-app
+
+</details>
+<br><br>
