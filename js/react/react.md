@@ -23,3 +23,42 @@ What is a way of initialising a React project with one command? (1)
 
 </details>
 <br><br>
+
+###### Question 3.
+
+What are React components, and why are they important?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+Components are like building blocks for webpages. They help you make your webpage in smaller, reusable pieces.
+
+</p>
+</details>
+<br><br>
+
+###### Question 4.
+
+What's a functional component in React?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+A functional component is like a simple function that shows something on the webpage. It can't remember things like a stateful component.
+
+</p>
+</details>
+<br><br>
+
+###### Question 5.
+
+What's JSX, and why do we use it?
+
+<details><summary><b>Answer</b></summary>
+<p>
+
+JSX is a way to write HTML in your JavaScript. It helps you build webpages using familiar-looking code.
+
+</p>
+</details>
+<br><br>
