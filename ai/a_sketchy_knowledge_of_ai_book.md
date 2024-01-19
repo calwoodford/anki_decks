@@ -2,7 +2,6 @@
   <img height="60" src="https://m.media-amazon.com/images/I/61IEchNNF8L._AC_UF1000,1000_QL80_.jpg">
   <h1>A Sketchy Knowledge of AI Book Questions and Answers</h1>
     <br>
-  <a href="https://ankiweb.net/shared/info/376600095?cb=1696104749579"> Download the Anki deck here </a>
   <br><br>
 </div>
 
